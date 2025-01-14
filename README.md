@@ -46,7 +46,7 @@ The LangGraph Platform consists of several components that support development, 
 
 ### Development & Tools
 - [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Framework for simplifying AI agent deployment with FastAPI and Streamlit. ![GitHub stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit)
-- [Browser Use: Web AI](https://github.com/browser-use/browser-use) - Library for AI agents to naturally interact with websites and automate web tasks. ![GitHub stars](https://img.shields.io/github/stars/browser-use/web-ai)
+- [Browser Use: Web AI](https://github.com/browser-use/browser-use) - Library for AI agents to naturally interact with websites and automate web tasks. ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use)
 - [Khoj](https://github.com/khoj-ai/khoj) - Self-hostable AI second brain for answers from web or docs with custom agents. ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj)
 
 ### Finance & Business
