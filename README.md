@@ -29,63 +29,34 @@ The LangGraph Platform consists of several components that support development, 
 - **Python/JS SDK**: Provides a programmatic way to interact with deployed LangGraph applications.
 - **Remote Graph**: Allows interaction with deployed LangGraph applications as if they were running locally.
 
-## LangGraph Official Templates
+## LangGraph Templates
 
-Ready-to-use templates for different LangGraph applications:
+- [New LangGraph Project](https://github.com/langchain-ai/new-langgraph-project) - Simple, minimal chatbot with memory. [Python](https://github.com/langchain-ai/new-langgraph-project) | [JavaScript](https://github.com/langchain-ai/new-langgraphjs-project)
+- [ReAct Agent](https://github.com/langchain-ai/react-agent) - Agent that can be flexibly extended to many tools. [Python](https://github.com/langchain-ai/react-agent) | [JavaScript](https://github.com/langchain-ai/react-agent-js)
+- [Memory Agent](https://github.com/langchain-ai/memory-agent) - ReAct-style agent with cross-thread memory storage. [Python](https://github.com/langchain-ai/memory-agent) | [JavaScript](https://github.com/langchain-ai/memory-agent-js)
+- [Retrieval Agent](https://github.com/langchain-ai/retrieval-agent-template) - Agent with retrieval-based QA system. [Python](https://github.com/langchain-ai/retrieval-agent-template) | [JavaScript](https://github.com/langchain-ai/retrieval-agent-template-js)
+- [Data-enrichment Agent](https://github.com/langchain-ai/data-enrichment) - Agent for web searches and structured data organization. [Python](https://github.com/langchain-ai/data-enrichment) | [JavaScript](https://github.com/langchain-ai/data-enrichment-js)
 
-### New LangGraph Project
-A simple, minimal chatbot with memory.
-- [Python Template](https://github.com/langchain-ai/new-langgraph-project)
-- [JavaScript Template](https://github.com/langchain-ai/new-langgraphjs-project)
+## Community Agents
 
-### ReAct Agent
-A simple agent that can be flexibly extended to many tools.
-- [Python Template](https://github.com/langchain-ai/react-agent)
-- [JavaScript Template](https://github.com/langchain-ai/react-agent-js)
+### AI Assistants
+- [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/AI-Data-Analysis-MultiAgent) - Advanced multi-agent system for data analysis, visualization, and report generation with innovative Note Taker agent. ![GitHub stars](https://img.shields.io/github/stars/starpig1129/AI-Data-Analysis-MultiAgent)
+- [ContentMind AI](https://github.com/lgesuellip/researcher_agent) - Transform websites into LLM-ready research material with automated documentation indexing. ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent)
+- [RD-Agent](https://github.com/microsoft/RD-Agent) - Microsoft's R&D automation tool for data mining, research paper analysis, and model tuning. ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent)
 
-### Memory Agent
-A ReAct-style agent with an additional tool to store memories for use across conversational threads.
-- [Python Template](https://github.com/langchain-ai/memory-agent)
-- [JavaScript Template](https://github.com/langchain-ai/memory-agent-js)
+### Development & Tools
+- [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Framework for simplifying AI agent deployment with FastAPI and Streamlit. ![GitHub stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit)
+- [Browser Use: Web AI](https://github.com/browser-use/browser-use) - Library for AI agents to naturally interact with websites and automate web tasks. ![GitHub stars](https://img.shields.io/github/stars/browser-use/web-ai)
+- [Khoj](https://github.com/khoj-ai/khoj) - Self-hostable AI second brain for answers from web or docs with custom agents. ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj)
 
-### Retrieval Agent
-An agent that includes a retrieval-based question-answering system.
-- [Python Template](https://github.com/langchain-ai/retrieval-agent-template)
-- [JavaScript Template](https://github.com/langchain-ai/retrieval-agent-template-js)
+### Finance & Business
+- [AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator) - Discovers and analyzes enterprise AI case studies using Claude 3.5 Sonnet. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)
+- [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Six AI agents collaborating through LangChain for smart trading decisions. ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund)
 
-### Data-enrichment Agent
-An agent that performs web searches and organizes its findings into a structured format.
-- [Python Template](https://github.com/langchain-ai/data-enrichment)
-- [JavaScript Template](https://github.com/langchain-ai/data-enrichment-js)
-
-Contributions are welcome! Add links via pull requests or start a discussion through issues. Please read the contribution guidelines before contributing.
-
-Stay tuned for more updates and exciting projects in the LangGraph ecosystem!
-
-## Projects
-
-### Research & Documentation
-- [ContentMind AI](https://github.com/lgesuellip/researcher_agent) ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent) - Transform websites into LLM-ready research material with automated documentation indexing.
-- [AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator) ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator) - Discovers and analyzes enterprise AI case studies using Claude 3.5 Sonnet.
-- [bRAG](https://github.com/bRAGAI/bRAG-langchain) ![GitHub stars](https://img.shields.io/github/stars/bRAGAI/bRAG-langchain) - Comprehensive RAG tutorial series from basics to advanced implementations.
-- [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/AI-Data-Analysis-MultiAgent) ![GitHub stars](https://img.shields.io/github/stars/starpig1129/AI-Data-Analysis-MultiAgent) - Advanced multi-agent system for data analysis, visualization, and report generation with innovative Note Taker agent.
-
-### Research & Development
-- [RD-Agent](https://github.com/microsoft/RD-Agent) ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent) - Microsoft's R&D automation tool for data mining, research paper analysis, and model tuning, featuring specialized agents for quant analysis and Kaggle competitions.
-
-### Finance
-- [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund) - Six AI agents collaborating through LangChain for smart trading decisions.
-
-### Web Automation
-- [Browser Use: Web AI](https://github.com/browser-use/web-ai) ![GitHub stars](https://img.shields.io/github/stars/browser-use/web-ai) - Library for AI agents to naturally interact with websites and automate web tasks.
-
-### Development Tools
-- [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit) ![GitHub stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit) - Framework for simplifying AI agent deployment with FastAPI and Streamlit.
-- [Khoj](https://github.com/khoj-ai/khoj) ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj) - Self-hostable AI second brain for answers from web or docs with custom agents.
-
-### Customer Service
-- [IdentityRAG Insights](https://github.com/tilotech/identity-rag-customer-insights-chatbot) ![GitHub stars](https://img.shields.io/github/stars/tilotech/identity-rag-customer-insights-chatbot) - Chatbot unifying customer data into "golden records" for context-aware responses.
-- [Demo Bank Support Bot](https://github.com/multinear-demo/demo-bank-support-lc-py) ![GitHub stars](https://img.shields.io/github/stars/multinear-demo/demo-bank-support-lc-py) - RAG-powered banking customer support chatbot with hallucination prevention.
+### Knowledge & Retrieval
+- [bRAG](https://github.com/bRAGAI/bRAG-langchain) - Comprehensive RAG tutorial series from basics to advanced implementations. ![GitHub stars](https://img.shields.io/github/stars/bRAGAI/bRAG-langchain)
+- [Demo Bank Support Bot](https://github.com/multinear-demo/demo-bank-support-lc-py) - RAG-powered banking customer support chatbot with hallucination prevention. ![GitHub stars](https://img.shields.io/github/stars/multinear-demo/demo-bank-support-lc-py)
+- [IdentityRAG Insights](https://github.com/tilotech/identity-rag-customer-insights-chatbot) - Chatbot unifying customer data into "golden records" for context-aware responses. ![GitHub stars](https://img.shields.io/github/stars/tilotech/identity-rag-customer-insights-chatbot)
 
 ---
 
