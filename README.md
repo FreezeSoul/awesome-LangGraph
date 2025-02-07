@@ -74,15 +74,17 @@ The LangGraph Platform consists of several components that support development, 
 ### Sustainability
 - [GreenMe](https://github.com/vivek-suryavanshi/GreenMeGenAIApp) - AI-powered sustainability guide analyzing lifestyle for carbon footprint reduction. ![GitHub stars](https://img.shields.io/github/stars/vivek-suryavanshi/GreenMeGenAIApp)
 
----
+## Tools
+
+- **[Gen AI Toolbox for Databases](https://github.com/googleapis/genai-toolbox)** - A public beta tool server for database tools, enabling agents to easily call these tools. Excited to partner with Google on this launch! Special thanks to Hamsa Buvaraghan, Kurtis Van Gent, and the team!
+
+--- 
 
 ## Learning
 
 - [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph) - Comprehensive course to get started with LangGraph, covering fundamental concepts, workflows, and practical use cases.
 
 ---
-
-
 
 ## 🤝 Contributing
 
