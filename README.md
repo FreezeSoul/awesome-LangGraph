@@ -49,6 +49,7 @@ The LangGraph Platform consists of several components that support development, 
 - [RD-Agent](https://github.com/microsoft/RD-Agent) - Microsoft's R&D automation tool for data mining, research paper analysis, and model tuning. ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent)
 + **[Agent Inbox](https://github.com/langchain-ai/agent-inbox)** - A tool for managing and deploying AI agents. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox)
 + **[WebRover](https://github.com/hrithikkoduri/WebRover)** - Autonomous AI agent for web task automation and research. ![GitHub stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover)
++ **[langgraph-mcp](https://github.com/esxr/langgraph-mcp)** - Universal Assistant built with LangGraph and Model Context Protocol (MCP). ![GitHub stars](https://img.shields.io/github/stars/esxr/langgraph-mcp)
 
 ### Content & Media
 - [AgentWrite](https://github.com/denser-org/denser-chat) - Automated content generation tool breaking down complex writing tasks into manageable steps. ![GitHub stars](https://img.shields.io/github/stars/denser-org/denser-chat)
