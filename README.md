@@ -47,6 +47,8 @@ The LangGraph Platform consists of several components that support development, 
 - [ContentMind AI](https://github.com/lgesuellip/researcher_agent) - Transform websites into LLM-ready research material with automated documentation indexing. ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent)
 - [CopilotMate](https://github.com/AkashJana18/copilotmate) - Personal assistant with intuitive interface using Groq LLM and CopilotKit UI. ![GitHub stars](https://img.shields.io/github/stars/AkashJana18/copilotmate)
 - [RD-Agent](https://github.com/microsoft/RD-Agent) - Microsoft's R&D automation tool for data mining, research paper analysis, and model tuning. ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent)
++ **[Agent Inbox](https://github.com/langchain-ai/agent-inbox)** - A tool for managing and deploying AI agents. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox)
++ **[WebRover](https://github.com/hrithikkoduri/WebRover)** - Autonomous AI agent for web task automation and research. ![GitHub stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover)
 
 ### Content & Media
 - [AgentWrite](https://github.com/denser-org/denser-chat) - Automated content generation tool breaking down complex writing tasks into manageable steps. ![GitHub stars](https://img.shields.io/github/stars/denser-org/denser-chat)
@@ -58,6 +60,7 @@ The LangGraph Platform consists of several components that support development, 
 - [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Framework for simplifying AI agent deployment with FastAPI and Streamlit. ![GitHub stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit)
 - [Browser Use: Web AI](https://github.com/browser-use/browser-use) - Library for AI agents to naturally interact with websites and automate web tasks. ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use)
 - [Khoj](https://github.com/khoj-ai/khoj) - Self-hostable AI second brain for answers from web or docs with custom agents. ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj)
++ **[Hyperbolic-AgentKit](https://github.com/HyperbolicLabs/Hyperbolic-AgentKit)** - AI agent framework with blockchain and compute capabilities. ![GitHub stars](https://img.shields.io/github/stars/HyperbolicLabs/Hyperbolic-AgentKit)
 
 ### Finance & Business
 - [AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator) - Discovers and analyzes enterprise AI case studies using Claude 3.5 Sonnet. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)
@@ -70,6 +73,8 @@ The LangGraph Platform consists of several components that support development, 
 - [Denser Chat](https://github.com/denser-org/denser-chat) - Chatbot for answering questions from PDFs and webpages with text extraction capabilities. ![GitHub stars](https://img.shields.io/github/stars/denser-org/denser-chat)
 - [IdentityRAG Insights](https://github.com/tilotech/identity-rag-customer-insights-chatbot) - Chatbot unifying customer data into "golden records" for context-aware responses. ![GitHub stars](https://img.shields.io/github/stars/tilotech/identity-rag-customer-insights-chatbot)
 - [Reply gAI](https://github.com/langchain-ai/reply_gAI) - AI clone for X/Twitter profiles using long-term memory and RAG for personalized responses. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/reply_gAI)
++ **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Advanced RAG tutorials enhancing accuracy and efficiency. ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques)
++ **[r1-reasoning-rag](https://github.com/deansaco/r1-reasoning-rag/)** - Recursive RAG system using r1 reasoning for comprehensive question answering. ![GitHub stars](https://img.shields.io/github/stars/deansaco/r1-reasoning-rag/)
 
 ### Sustainability
 - [GreenMe](https://github.com/vivek-suryavanshi/GreenMeGenAIApp) - AI-powered sustainability guide analyzing lifestyle for carbon footprint reduction. ![GitHub stars](https://img.shields.io/github/stars/vivek-suryavanshi/GreenMeGenAIApp)
