@@ -2,7 +2,9 @@
 
 LangGraph is a framework for building stateful multi-actor applications, modeling steps as graph nodes and edges. It offers interfaces for agent creation and custom flow composition.
 
-> Inspired by [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) (7.8k+ ⭐), this is a curated list of tools and projects using Langchain.
+> Inspired by [awesome-langchain](https://github.com/kyrolabs/awesome-langchain), this is a curated list of tools and projects using Langchain.![GitHub stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain)
+
+
 
 ## LangChain Ecosystem
 
