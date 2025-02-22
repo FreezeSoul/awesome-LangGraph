@@ -36,6 +36,7 @@ The LangGraph Platform consists of several components that support development, 
 - [Memory Agent](https://github.com/langchain-ai/memory-agent) - ReAct-style agent with cross-thread memory storage. [Python](https://github.com/langchain-ai/memory-agent) | [JavaScript](https://github.com/langchain-ai/memory-agent-js)
 - [Retrieval Agent](https://github.com/langchain-ai/retrieval-agent-template) - Agent with retrieval-based QA system. [Python](https://github.com/langchain-ai/retrieval-agent-template) | [JavaScript](https://github.com/langchain-ai/retrieval-agent-template-js)
 - [Data-enrichment Agent](https://github.com/langchain-ai/data-enrichment) - Agent for web searches and structured data organization. [Python](https://github.com/langchain-ai/data-enrichment) | [JavaScript](https://github.com/langchain-ai/data-enrichment-js)
+- [Full-Stack Python Chatbot with LangGraph](https://github.com/langchain-ai/langgraph-fullstack-python) - This template demonstrates how to build a full-stack chatbot application using LangGraph's HTTP configuration capabilities. It showcases how to combine a React-style agent with a modern web UI, all hosted within a single LangGraph deployment. [Python](https://github.com/langchain-ai/langgraph-fullstack-python)
 
 ## Community Agents
 
@@ -47,9 +48,10 @@ The LangGraph Platform consists of several components that support development, 
 - [ContentMind AI](https://github.com/lgesuellip/researcher_agent) - Transform websites into LLM-ready research material with automated documentation indexing. ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent)
 - [CopilotMate](https://github.com/AkashJana18/copilotmate) - Personal assistant with intuitive interface using Groq LLM and CopilotKit UI. ![GitHub stars](https://img.shields.io/github/stars/AkashJana18/copilotmate)
 - [RD-Agent](https://github.com/microsoft/RD-Agent) - Microsoft's R&D automation tool for data mining, research paper analysis, and model tuning. ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent)
-+ **[Agent Inbox](https://github.com/langchain-ai/agent-inbox)** - A tool for managing and deploying AI agents. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox)
++ **[Agent Inbox](https://github.com/langchain-ai/agent-inbox)** - Open source Agent Inbox UI for human-in-the-loop LangGraph agents. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox)
 + **[WebRover](https://github.com/hrithikkoduri/WebRover)** - Autonomous AI agent for web task automation and research. ![GitHub stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover)
 + **[langgraph-mcp](https://github.com/esxr/langgraph-mcp)** - Universal Assistant built with LangGraph and Model Context Protocol (MCP). ![GitHub stars](https://img.shields.io/github/stars/esxr/langgraph-mcp)
++ **[LangGraph Multi-Agent Supervisor](https://github.com/langchain-ai/langgraph-supervisor)** - A Python library for creating hierarchical multi-agent systems using LangGraph. Hierarchical systems are a type of multi-agent architecture where specialized agents are coordinated by a central supervisor agent. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-supervisor)
 
 ### Content & Media
 - [AgentWrite](https://github.com/denser-org/denser-chat) - Automated content generation tool breaking down complex writing tasks into manageable steps. ![GitHub stars](https://img.shields.io/github/stars/denser-org/denser-chat)
@@ -62,6 +64,7 @@ The LangGraph Platform consists of several components that support development, 
 - [Browser Use: Web AI](https://github.com/browser-use/browser-use) - Library for AI agents to naturally interact with websites and automate web tasks. ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use)
 - [Khoj](https://github.com/khoj-ai/khoj) - Self-hostable AI second brain for answers from web or docs with custom agents. ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj)
 + **[Hyperbolic-AgentKit](https://github.com/HyperbolicLabs/Hyperbolic-AgentKit)** - AI agent framework with blockchain and compute capabilities. ![GitHub stars](https://img.shields.io/github/stars/HyperbolicLabs/Hyperbolic-AgentKit)
++ **[Agent Protocol](https://github.com/langchain-ai/agent-protocol)** - Agent Protocol is our attempt at codifying the framework-agnostic APIs that are needed to serve LLM agents in production. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol)
 
 ### Finance & Business
 - [AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator) - Discovers and analyzes enterprise AI case studies using Claude 3.5 Sonnet. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)
