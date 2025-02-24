@@ -79,7 +79,6 @@ The LangGraph Platform consists of several components that support development, 
 - [Denser Chat](https://github.com/denser-org/denser-chat) - Chatbot for answering questions from PDFs and webpages with text extraction capabilities. ![GitHub stars](https://img.shields.io/github/stars/denser-org/denser-chat)
 - [IdentityRAG Insights](https://github.com/tilotech/identity-rag-customer-insights-chatbot) - Chatbot unifying customer data into "golden records" for context-aware responses. ![GitHub stars](https://img.shields.io/github/stars/tilotech/identity-rag-customer-insights-chatbot)
 - [Reply gAI](https://github.com/langchain-ai/reply_gAI) - AI clone for X/Twitter profiles using long-term memory and RAG for personalized responses. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/reply_gAI)
-+ **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Advanced RAG tutorials enhancing accuracy and efficiency. ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques)
 + **[r1-reasoning-rag](https://github.com/deansaco/r1-reasoning-rag/)** - Recursive RAG system using r1 reasoning for comprehensive question answering. ![GitHub stars](https://img.shields.io/github/stars/deansaco/r1-reasoning-rag/)
 
 ### Sustainability
@@ -88,12 +87,17 @@ The LangGraph Platform consists of several components that support development, 
 ## Tools
 
 - **[Gen AI Toolbox for Databases](https://github.com/googleapis/genai-toolbox)** - A public beta tool server for database tools, enabling agents to easily call these tools. Excited to partner with Google on this launch! Special thanks to Hamsa Buvaraghan, Kurtis Van Gent, and the team!
++ **[GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)** - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 
 --- 
 
 ## Learning
 
 - [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph) - Comprehensive course to get started with LangGraph, covering fundamental concepts, workflows, and practical use cases.
+
+### Repositories
++ - **[GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)** - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
++ **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Advanced RAG tutorials enhancing accuracy and efficiency. ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques)
 
 ---
 
