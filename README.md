@@ -86,8 +86,7 @@ The LangGraph Platform consists of several components that support development, 
 
 ## Tools
 
-- **[Gen AI Toolbox for Databases](https://github.com/googleapis/genai-toolbox)** - A public beta tool server for database tools, enabling agents to easily call these tools. Excited to partner with Google on this launch! Special thanks to Hamsa Buvaraghan, Kurtis Van Gent, and the team!
-+ **[GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)** - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+- **[Gen AI Toolbox for Databases](https://github.com/googleapis/genai-toolbox)** - A public beta tool server for database tools, enabling agents to easily call these tools. Excited to partner with Google on this launch! Special thanks to Hamsa Buvaraghan, Kurtis Van Gent, and the team! ![GitHub stars](https://img.shields.io/github/stars/googleapis/genai-toolbox)
 
 --- 
 
@@ -96,8 +95,9 @@ The LangGraph Platform consists of several components that support development, 
 - [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph) - Comprehensive course to get started with LangGraph, covering fundamental concepts, workflows, and practical use cases.
 
 ### Repositories
-+ - **[GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)** - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-+ **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Advanced RAG tutorials enhancing accuracy and efficiency. ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques)
+- **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** - A leading agentic UX solution for teams building on top of LangGraph. CopilotKit enables the creation of deeply-integrated AI assistants and agents that work alongside users within applications. ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit)
+- **[GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)** - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents)
+- **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Advanced RAG tutorials enhancing accuracy and efficiency. ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques)
 
 ---
 
