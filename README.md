@@ -65,8 +65,9 @@ The LangGraph Platform consists of several components that support development, 
 - [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Framework for simplifying AI agent deployment with FastAPI and Streamlit. ![GitHub stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit)
 - [Browser Use: Web AI](https://github.com/browser-use/browser-use) - Library for AI agents to naturally interact with websites and automate web tasks. ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use)
 - [Khoj](https://github.com/khoj-ai/khoj) - Self-hostable AI second brain for answers from web or docs with custom agents. ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj)
-+ **[Hyperbolic-AgentKit](https://github.com/HyperbolicLabs/Hyperbolic-AgentKit)** - AI agent framework with blockchain and compute capabilities. ![GitHub stars](https://img.shields.io/github/stars/HyperbolicLabs/Hyperbolic-AgentKit)
-+ **[Agent Protocol](https://github.com/langchain-ai/agent-protocol)** - Agent Protocol is our attempt at codifying the framework-agnostic APIs that are needed to serve LLM agents in production. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol)
+- **[Hyperbolic-AgentKit](https://github.com/HyperbolicLabs/Hyperbolic-AgentKit)** - AI agent framework with blockchain and compute capabilities. ![GitHub stars](https://img.shields.io/github/stars/HyperbolicLabs/Hyperbolic-AgentKit)
+- **[Agent Protocol](https://github.com/langchain-ai/agent-protocol)** - Agent Protocol is our attempt at codifying the framework-agnostic APIs that are needed to serve LLM agents in production. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol)
++ **[Multi-Agent Supervisor](https://github.com/langchain-ai/langgraph-supervisor-js)** - A JS lib for creating hierarchical multi-agent systems using LangGraph. 
 
 ### Finance & Business
 - [AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator) - Discovers and analyzes enterprise AI case studies using Claude 3.5 Sonnet. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)
