@@ -80,7 +80,7 @@ The LangGraph Platform consists of several components that support development, 
 - [Denser Chat](https://github.com/denser-org/denser-chat) - Chatbot for answering questions from PDFs and webpages with text extraction capabilities. ![GitHub stars](https://img.shields.io/github/stars/denser-org/denser-chat)
 - [IdentityRAG Insights](https://github.com/tilotech/identity-rag-customer-insights-chatbot) - Chatbot unifying customer data into "golden records" for context-aware responses. ![GitHub stars](https://img.shields.io/github/stars/tilotech/identity-rag-customer-insights-chatbot)
 - [Reply gAI](https://github.com/langchain-ai/reply_gAI) - AI clone for X/Twitter profiles using long-term memory and RAG for personalized responses. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/reply_gAI)
-+ **[r1-reasoning-rag](https://github.com/deansaco/r1-reasoning-rag/)** - Recursive RAG system using r1 reasoning for comprehensive question answering. ![GitHub stars](https://img.shields.io/github/stars/deansaco/r1-reasoning-rag/)
++ **[Shandu](https://github.com/jolovicdev/shandu)** - An intelligent, LLM-powered research system that automates comprehensive research process using LangGraph's state-based workflow for sophisticated source evaluation and knowledge synthesis. ![GitHub stars](https://img.shields.io/github/stars/jolovicdev/shandu)
 
 ### Sustainability
 - [GreenMe](https://github.com/vivek-suryavanshi/GreenMeGenAIApp) - AI-powered sustainability guide analyzing lifestyle for carbon footprint reduction. ![GitHub stars](https://img.shields.io/github/stars/vivek-suryavanshi/GreenMeGenAIApp)
