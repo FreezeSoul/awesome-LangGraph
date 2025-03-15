@@ -178,6 +178,7 @@ LangGraph includes several pre-built agents that extend its functionality in var
 - **[langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters)** - Make Anthropic MCP tools compatible with LangGraph agents
 - **[delve-taxonomy-generator](https://github.com/andrestorres123/delve)** - A taxonomy generator for unstructured data
 - **[breeze-agent](https://github.com/andrestorres123/breeze-agent)** - A streamlined research system inspired by STORM
+- **[langgraph-reflection](https://github.com/langchain-ai/langgraph-reflection)** - A reflection-style agent architecture that uses two subagents (main and critique) to iteratively improve outputs through self-review
 
 Want to contribute your own pre-built agent? Check out the [contribution guidelines](https://langchain-ai.github.io/langgraph/prebuilt/#-contributing-your-library) in the documentation.
 
@@ -192,7 +193,7 @@ Reference applications built with LangGraph:
 - **[Social Media Agent](https://github.com/langchain-ai/social-media-agent)** - Content curation & scheduling  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=social)
 - **[Agent Inbox](https://github.com/langchain-ai/agent-inbox)** - Human-in-the-loop UI  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox?style=social)
 - **[Full-Stack Python Chatbot with LangGraph](https://github.com/langchain-ai/langgraph-fullstack-python)** - React-style agent with a modern web UI, all hosted within a single LangGraph deployment  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox?style=social)
- [](https://github.com/langchain-ai/langgraph-fullstack-python)
+- **[LangGraph Generative UI Examples](https://github.com/langchain-ai/langgraphjs-gen-ui-examples)** - Collection of agents with generative UI components including stockbroker, trip planner, and email assistant ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs-gen-ui-examples?style=social)
 
 ## Community Projects
 
@@ -208,7 +209,6 @@ This is a curated list of open-source agent and LLM projects. They are grouped b
 - **[ContentMind AI](https://github.com/lgesuellip/researcher_agent)** – Turns websites into LLM-ready research content with automated documentation indexing. ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent)
 - **[CopilotMate](https://github.com/AkashJana18/copilotmate)** – Personal assistant with a Groq LLM and CopilotKit UI. ![GitHub stars](https://img.shields.io/github/stars/AkashJana18/copilotmate)
 - **[RD-Agent](https://github.com/microsoft/RD-Agent)** – Microsoft's R&D automation tool for data mining, paper analysis, and model tuning. ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent)
-- **[Agent Inbox](https://github.com/langchain-ai/agent-inbox)** – Open source UI for human-in-the-loop LangGraph agents. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox)
 - **[WebRover](https://github.com/hrithikkoduri/WebRover)** – Autonomous AI agent for automating web tasks and research. ![GitHub stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover)
 
 ---
@@ -263,6 +263,7 @@ This is a curated list of open-source agent and LLM projects. They are grouped b
 ### Tutorials & Courses
 
 - **[Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)** - Official course covering fundamentals and practical use cases ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-course?style=social)
+- **[LangGraph - Develop LLM powered AI agents](https://www.udemy.com/course/langgraph/)** - Comprehensive course on building AI agents with LangGraph by Eden Marco
 
 ### Example Repositories
 
