@@ -153,6 +153,8 @@ The LangGraph Platform provides tools and services for building, deploying, and 
 📚 Documentation: [Remote Graph Guide](https://langchain-ai.github.io/langgraph/how-tos/use-remote-graph/)
 </details>
 
+---
+
 ## Official Resources
 
 ### Starter Templates
@@ -169,6 +171,7 @@ Templates to help you get started with LangGraph. For deployment instructions, c
 
 Each badge links to the respective GitHub repository. For deployment and configuration details, refer to the CLI documentation.
 
+---
 ### Pre-built Agents
 
 LangGraph includes several pre-built agents that extend its functionality in various ways. For more information on how to use them, check out the [official documentation](https://langchain-ai.github.io/langgraph/prebuilt/).
@@ -185,6 +188,7 @@ LangGraph includes several pre-built agents that extend its functionality in var
 
 Want to contribute your own pre-built agent? Check out the [contribution guidelines](https://langchain-ai.github.io/langgraph/prebuilt/#-contributing-your-library) in the documentation.
 
+---
 ### Example Applications
 
 Reference applications built with LangGraph:
@@ -205,7 +209,7 @@ Reference applications built with LangGraph:
 ### Third-Party Packages
 - **[Python Provider Integrations](https://python.langchain.com/docs/integrations/providers/all/)** - Comprehensive list of all available integrations for Python, including LLM providers, vector stores, and tools
 - **[JavaScript Provider Integrations](https://js.langchain.com/docs/integrations/platforms/)** - Available integrations for JavaScript/TypeScript applications
-
+---
 ### Database & Backend Integration
 - **[Google GenAI Toolbox](https://github.com/googleapis/genai-toolbox)** – Production-grade infrastructure for connecting AI agents with databases, featuring security, observability, and connection pooling ![GitHub stars](https://img.shields.io/github/stars/googleapis/genai-toolbox?style=social)
 
@@ -218,7 +222,7 @@ Reference applications built with LangGraph:
 
 This is a curated list of open-source agent and LLM projects. They are grouped by category for easier discovery.
 
----
+
 
 ### AI Assistants
 - **[AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/AI-Data-Analysis-MultiAgent)** – Multi-agent system for data analysis, visualization, and report generation. ![GitHub stars](https://img.shields.io/github/stars/starpig1129/AI-Data-Analysis-MultiAgent)
@@ -279,6 +283,7 @@ This is a curated list of open-source agent and LLM projects. They are grouped b
 - **[Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)** - Official course covering fundamentals and practical use cases ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-course?style=social)
 - **[LangGraph - Develop LLM powered AI agents](https://www.udemy.com/course/langgraph/)** - Course on building AI agents with LangGraph by Eden Marco
 
+---
 ### Tutorials & Examples
 - **[GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)** - Agent implementation examples ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=social)
 - **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Several RAG implementations and tutorials ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social)
@@ -288,6 +293,7 @@ This is a curated list of open-source agent and LLM projects. They are grouped b
 ## Companies Using LangGraph
 
 A comprehensive list of organizations using LangGraph in production environments. For more details and case studies, visit the [official adopters page](https://langchain-ai.github.io/langgraph/adopters/).
+
 
 | Company | Industry | Use Case | Reference |
 |---------|----------|----------|-----------|
@@ -311,7 +317,7 @@ A comprehensive list of organizations using LangGraph in production environments
 
 ## Contributing
 
-We welcome contributions to this awesome list! Please ensure your submission:
+**We welcome contributions to this awesome list! Please ensure your submission**:
 
 - Is actively maintained and relevant to LangGraph
 - Includes a clear description of its purpose and value
