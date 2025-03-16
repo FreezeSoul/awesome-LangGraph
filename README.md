@@ -2,18 +2,21 @@
 
 > A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with [LangGraph](https://github.com/langchain-ai/langgraph).
 
-Welcome to Awesome LangGraph! This repository is your go-to resource for discovering tools, templates, and examples for building powerful AI applications with LangGraph. Whether you're just getting started or building production-ready systems, you'll find valuable resources to accelerate your development.
+**Welcome to Awesome LangGraph!** This repository is your go-to resource for discovering tools, templates, and examples for building powerful AI applications with LangGraph. Whether you're just getting started or building production-ready systems, you'll find valuable resources to accelerate your development.
 
 ## Table of Contents
 
 - [Core Ecosystem](#core-ecosystem)
   - [LangChain Ecosystem Overview](#langchain-ecosystem-overview)
   - [LangGraph Platform](#langgraph-platform)
-  - [Development Tools](#development-tools)
 - [Official Resources](#official-resources)
   - [Starter Templates](#starter-templates)
   - [Pre-built Agents](#pre-built-agents)
   - [Example Applications](#example-applications)
+- [Integration & Development Tools](#integration-development-tools)
+  - [Third-Party Packages](#Third-Party-packages)
+  - [Database & Backend Integration](#database-backend-integration)
+  - [Frontend & UI Integration](#frontend-ui-integration)
 - [Community Projects](#community-projects)
   - [AI Assistants & Agents](#ai-assistants--agents)
   - [Development Tools](#development-tools-1)
@@ -22,11 +25,13 @@ Welcome to Awesome LangGraph! This repository is your go-to resource for discove
   - [Finance & Business](#finance--business)
   - [Sustainability](#sustainability)
 - [Learning Resources](#learning-resources)
-  - [Tutorials & Courses](#tutorials--courses)
-  - [Example Repositories](#example-repositories)
+  - [Courses](#courses)
+  - [Tutorials & Examples](#tutorials--examples)
+- [Companies Using LangGraph](#companies-using-langgraph)
 - [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
 
-## Core Ecosystem
+## LangChain Ecosystem
 
 ### LangChain Ecosystem Overview
 
@@ -148,8 +153,6 @@ The LangGraph Platform provides tools and services for building, deploying, and 
 📚 Documentation: [Remote Graph Guide](https://langchain-ai.github.io/langgraph/how-tos/use-remote-graph/)
 </details>
 
-
-
 ## Official Resources
 
 ### Starter Templates
@@ -194,6 +197,22 @@ Reference applications built with LangGraph:
 - **[Agent Inbox](https://github.com/langchain-ai/agent-inbox)** - Human-in-the-loop UI  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox?style=social)
 - **[Full-Stack Python Chatbot with LangGraph](https://github.com/langchain-ai/langgraph-fullstack-python)** - React-style agent with a modern web UI, all hosted within a single LangGraph deployment  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox?style=social)
 - **[LangGraph Generative UI Examples](https://github.com/langchain-ai/langgraphjs-gen-ui-examples)** - Collection of agents with generative UI components including stockbroker, trip planner, and email assistant ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs-gen-ui-examples?style=social)
+
+---
+
+## Integration & Development Tools
+
+### Third-Party Packages
+- **[Python Provider Integrations](https://python.langchain.com/docs/integrations/providers/all/)** - Comprehensive list of all available integrations for Python, including LLM providers, vector stores, and tools
+- **[JavaScript Provider Integrations](https://js.langchain.com/docs/integrations/platforms/)** - Available integrations for JavaScript/TypeScript applications
+
+### Database & Backend Integration
+- **[Google GenAI Toolbox](https://github.com/googleapis/genai-toolbox)** – Production-grade infrastructure for connecting AI agents with databases, featuring security, observability, and connection pooling ![GitHub stars](https://img.shields.io/github/stars/googleapis/genai-toolbox?style=social)
+
+### Frontend & UI Integration
+- **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** – Framework for building AI copilots with generative UI, chat interfaces, and human-in-the-loop capabilities ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)
+
+---
 
 ## Community Projects
 
@@ -254,22 +273,41 @@ This is a curated list of open-source agent and LLM projects. They are grouped b
 
 ---
 
-### Tools
-- **[Gen AI Toolbox for Databases](https://github.com/googleapis/genai-toolbox)** – Public beta tool server for database tools, enabling agents to call these tools easily. ![GitHub stars](https://img.shields.io/github/stars/googleapis/genai-toolbox)
-
-
 ## Learning Resources
 
-### Tutorials & Courses
-
+### Courses
 - **[Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)** - Official course covering fundamentals and practical use cases ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-course?style=social)
-- **[LangGraph - Develop LLM powered AI agents](https://www.udemy.com/course/langgraph/)** - Comprehensive course on building AI agents with LangGraph by Eden Marco
+- **[LangGraph - Develop LLM powered AI agents](https://www.udemy.com/course/langgraph/)** - Course on building AI agents with LangGraph by Eden Marco
 
-### Example Repositories
-
-- **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** - UI solution for integrated assistants ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)
+### Tutorials & Examples
 - **[GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)** - Agent implementation examples ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=social)
-- **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - RAG enhancement tutorials ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social)
+- **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Several RAG implementations and tutorials ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social)
+
+---
+
+## Companies Using LangGraph
+
+A comprehensive list of organizations using LangGraph in production environments. For more details and case studies, visit the [official adopters page](https://langchain-ai.github.io/langgraph/adopters/).
+
+| Company | Industry | Use Case | Reference |
+|---------|----------|----------|-----------|
+| [LinkedIn](https://www.linkedin.com/) | Social Media | Code generation; Search & discovery | [Blog post, 2025](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics) |
+| [Uber](https://www.uber.com/) | Transportation | Developer productivity; Code generation | [Presentation, 2024](https://dpe.org/sessions/ty-smith-adam-huda/this-year-in-ubers-ai-driven-developer-productivity-revolution/) |
+| [GitLab](https://about.gitlab.com/) | Software & Technology | Code generation | [Duo workflow docs](https://handbook.gitlab.com/handbook/engineering/architecture/design-documents/duo_workflow/) |
+| [Klarna](https://www.klarna.com/) | Fintech | Copilot for domain-specific task | [Case study, 2025](https://blog.langchain.dev/customers-klarna/) |
+| [Rakuten](https://www.rakuten.com/) | E-commerce / Fintech | Copilot for domain-specific task | [Blog post, 2025](https://rakuten.today/blog/from-ai-hype-to-real-world-tools-rakuten-teams-up-with-langchain.html) |
+| [Minimal](https://gominimal.ai/) | E-commerce | Customer support | [Case study, 2025](https://blog.langchain.dev/how-minimal-built-a-multi-agent-customer-support-system-with-langgraph-langsmith/) |
+| [Komodo Health](https://www.komodohealth.com/) | Healthcare | Copilot for domain-specific task | [Blog post](https://www.komodohealth.com/perspectives/new-gen-ai-assistant-empowers-the-enterprise/) |
+| [OpenRecovery](https://www.openrecovery.com/) | Healthcare | Copilot for domain-specific task | [Case study, 2024](https://blog.langchain.dev/customers-openrecovery/) |
+| [AppFolio](https://www.appfolio.com/) | Real Estate | Copilot for domain-specific task | [Case study, 2024](https://blog.langchain.dev/customers-appfolio/) |
+| [Cisco Outshift](https://outshift.cisco.com/) | Software & Technology | DevOps | [Blog post, 2025](https://outshift.cisco.com/blog/build-react-agent-application-for-devops-tasks-using-rest-apis) |
+| [Elastic](https://www.elastic.co/) | Software & Technology | Copilot for domain-specific task | [Blog post, 2025](https://www.elastic.co/blog/elastic-security-generative-ai-features) |
+| [Infor](https://infor.com/) | Software & Technology | GenAI embedded product experiences; customer support; copilot | [Case study, 2025](https://blog.langchain.dev/customers-infor/) |
+| [AirTop](https://www.airtop.ai/) | Software & Technology (GenAI Native) | Browser automation for AI agents | [Case study, 2024](https://blog.langchain.dev/customers-airtop/) |
+| [Athena Intelligence](https://www.athenaintel.com/) | Software & Technology (GenAI Native) | Research & summarization | [Case study, 2024](https://blog.langchain.dev/customers-athena-intelligence/) |
+| [Captide](https://www.captide.co/) | Software & Technology (GenAI Native) | Data extraction | [Case study, 2025](https://blog.langchain.dev/how-captide-is-redefining-equity-research-with-agentic-workflows-built-on-langgraph-and-langsmith/) |
+
+---
 
 ## Contributing
 
