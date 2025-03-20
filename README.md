@@ -14,7 +14,8 @@
   - [Pre-built Agents](#pre-built-agents)
   - [Example Applications](#example-applications)
 - [Integration & Development Tools](#integration-development-tools)
-  - [Third-Party Packages](#Third-Party-packages)
+  - [LangGraph Development Tools](#langgraph-development-tools)
+  - [Third-Party Packages](#third-party-packages)
   - [Database & Backend Integration](#database-backend-integration)
   - [Frontend & UI Integration](#frontend-ui-integration)
 - [Community Projects](#community-projects)
@@ -206,7 +207,11 @@ Reference applications built with LangGraph:
 
 ## Integration & Development Tools
 
-#### Third-Party Packages
+### LangGraph Development Tools
+- **[LangGraph Builder](https://github.com/langchain-ai/langgraph-builder)** – Visual canvas for designing cognitive architectures of LangGraph applications with code generation for Python and TypeScript ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-builder?style=social)
+- **[LangGraph Generator](https://github.com/langchain-ai/langgraph-gen-py)** – CLI tool for generating LangGraph application stubs from YAML specifications ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-gen-py?style=social)
+
+### Third-Party Packages
 - **[Python Provider Integrations](https://python.langchain.com/docs/integrations/providers/all/)** - Comprehensive list of all available integrations for Python, including LLM providers, vector stores, and tools
 - **[JavaScript Provider Integrations](https://js.langchain.com/docs/integrations/platforms/)** - Available integrations for JavaScript/TypeScript applications
 
