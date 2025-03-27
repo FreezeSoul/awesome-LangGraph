@@ -186,6 +186,7 @@ LangGraph includes several pre-built agents that extend its functionality in var
 - **[delve-taxonomy-generator](https://github.com/andrestorres123/delve)** - A taxonomy generator for unstructured data
 - **[breeze-agent](https://github.com/andrestorres123/breeze-agent)** - A streamlined research system inspired by STORM
 - **[langgraph-reflection](https://github.com/langchain-ai/langgraph-reflection)** - A reflection-style agent architecture that uses two subagents (main and critique) to iteratively improve outputs through self-review
+- **[langgraph-CodeAct](https://github.com/langchain-ai/langgraph-codeact)** - Advanced function-calling architecture with persistent message history and variable state management for complex task solving ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-codeact?style=social)
 
 Want to contribute your own pre-built agent? Check out the [contribution guidelines](https://langchain-ai.github.io/langgraph/prebuilt/#-contributing-your-library) in the documentation.
 
@@ -296,6 +297,7 @@ This is a curated list of open-source agent and LLM projects. They are grouped b
 ### Tutorials & Examples
 - **[GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)** - Agent implementation examples ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=social)
 - **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Several RAG implementations and tutorials ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social)
+- **[Grounding RAG Applications Workshop](https://github.com/carlyrichmond/webdevcon-grounding-rag-applications-workshop)** - Hands-on workshop building RAG chatbots and travel planning agents with JavaScript and Elasticsearch ![GitHub stars](https://img.shields.io/github/stars/carlyrichmond/webdevcon-grounding-rag-applications-workshop?style=social)
 
 ---
 
