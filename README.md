@@ -357,7 +357,8 @@ For questions or suggestions, please open an issue.
 
 ## Acknowledgments
 
-Special thanks to the LangChain team for building such an amazing framework and ecosystem that enables developers to create powerful AI applications. This list is inspired by [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) ![GitHub stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social), which has been a great resource for the community.
+Special thanks to the LangChain team for building such an amazing framework and ecosystem that enables developers to create powerful AI applications. 
+> This list is inspired by [awesome-langchain](https://github.com/kyrolabs/awesome-langchain), which has been a great resource for the community.
 
 ---
 
