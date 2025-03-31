@@ -38,8 +38,7 @@
 
 LangGraph extends the LangChain ecosystem to provide flexible orchestration for LLM-powered systems. The ecosystem consists of several key components working together to support the entire LLM application lifecycle:
 
-![LangChain Ecosystem](static/langchain_overview.svg)
-<sub>Source: [LangChain Documentation](https://python.langchain.com/docs/introduction/)</sub>
+![LangChain Ecosystem](static/langchain_overview.svg)<sub>Source: [LangChain Documentation](https://python.langchain.com/docs/introduction/)</sub>
 
 #### Core Components
 
