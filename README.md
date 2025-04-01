@@ -45,7 +45,7 @@ LangGraph extends the LangChain ecosystem to provide flexible orchestration for 
 #### Core Components
 
 <details>
-<summary><strong>LangChain (OSS)</strong></summary>
+<summary><strong>LangChain</strong></summary>
 
 - Foundation framework for LLM application development
 - Provides standardized interfaces for LLMs and related technologies
@@ -56,7 +56,7 @@ LangGraph extends the LangChain ecosystem to provide flexible orchestration for 
 </details>
 
 <details>
-<summary><strong>LangGraph (OSS)</strong></summary>
+<summary><strong>LangGraph </strong></summary>
 
 - Built on top of LangChain for advanced workflow orchestration
 - Enables building stateful, multi-agent systems
@@ -68,7 +68,7 @@ LangGraph extends the LangChain ecosystem to provide flexible orchestration for 
 </details>
 
 <details>
-<summary><strong>LangSmith (Observability)</strong></summary>
+<summary><strong>LangSmith </strong></summary>
 
 - Comprehensive observability and debugging platform
 - Debugging and testing tools
@@ -82,7 +82,7 @@ LangGraph extends the LangChain ecosystem to provide flexible orchestration for 
 </details>
 
 <details>
-<summary><strong>LangGraph Platform (Commercial)</strong></summary>
+<summary><strong>LangGraph Platform </strong></summary>
 
 - Production deployment and management solution
 - API generation for LangGraph applications
@@ -167,11 +167,11 @@ Templates to help you get started with LangGraph. For deployment instructions, c
 
 | Template | Description | <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white&style=flat-square"/> | <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white&style=flat-square"/> |
 |----------|-------------|---------|------------|
-| **New Project** | Basic chatbot with memory | [langchain-ai/new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/new-langgraph-project) | [langchain-ai/new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/new-langgraphjs-project) |
-| **ReAct Agent** | Tool-using agent framework | [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/react-agent) | [langchain-ai/react-agent-js](https://github.com/langchain-ai/react-agent-js) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/react-agent-js) |
-| **Memory Agent** | Cross-thread memory persistence | [langchain-ai/memory-agent](https://github.com/langchain-ai/memory-agent) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/memory-agent) | [langchain-ai/memory-agent-js](https://github.com/langchain-ai/memory-agent-js) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/memory-agent-js) |
-| **Retrieval Agent** | Knowledge-based QA system | [langchain-ai/retrieval-agent-template](https://github.com/langchain-ai/retrieval-agent-template) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/retrieval-agent-template) | [langchain-ai/retrieval-agent-template-js](https://github.com/langchain-ai/retrieval-agent-template-js) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/retrieval-agent-template-js) |
-| **Data Enrichment** | Web search & data organization | [langchain-ai/data-enrichment](https://github.com/langchain-ai/data-enrichment) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/data-enrichment) | [langchain-ai/data-enrichment-js](https://github.com/langchain-ai/data-enrichment-js) ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/data-enrichment-js) |
+| **New Project** | Basic chatbot with memory | [langchain-ai/new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project)  | [langchain-ai/new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project)  |
+| **ReAct Agent** | Tool-using agent framework | [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent) | [langchain-ai/react-agent-js](https://github.com/langchain-ai/react-agent-js)  |
+| **Memory Agent** | Cross-thread memory persistence | [langchain-ai/memory-agent](https://github.com/langchain-ai/memory-agent) | [langchain-ai/memory-agent-js](https://github.com/langchain-ai/memory-agent-js)  |
+| **Retrieval Agent** | Knowledge-based QA system | [langchain-ai/retrieval-agent-template](https://github.com/langchain-ai/retrieval-agent-template)  | [langchain-ai/retrieval-agent-template-js](https://github.com/langchain-ai/retrieval-agent-template-js) |
+| **Data Enrichment** | Web search & data organization | [langchain-ai/data-enrichment](https://github.com/langchain-ai/data-enrichment) | [langchain-ai/data-enrichment-js](https://github.com/langchain-ai/data-enrichment-js)  |
 
 
 
@@ -199,34 +199,35 @@ These are the official agents provided and maintained by LangGraph:
 ---
 ### Example Applications
 
-These applications demonstrate real-world implementations using LangGraph. From chatbots to content generation, each example showcases different patterns and best practices for building production-ready systems. Use these as reference architectures or starting points for your own projects.
+These applications demonstrate real-world implementations using LangGraph. From chatbots to content generation, each example showcases different patterns and best practices for building production-ready systems and can be deployed with LanGraph Cloud.
 
-- **[ChatLangChain](https://github.com/langchain-ai/chat-langchain)** - LangChain documentation assistant  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/chat-langchain?style=social)
-- **[Open Canvas](https://github.com/langchain-ai/open-canvas)** - Document & code writing interface ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open-canvas?style=social)
-- **[OpenGPTs](https://github.com/langchain-ai/opengpts)** - Open source GPTs alternative  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/opengpts?style=social)
-- **[Email Assistant](https://github.com/langchain-ai/executive-ai-assistant)** - Email management automation  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/executive-ai-assistant?style=social)
-- **[Social Media Agent](https://github.com/langchain-ai/social-media-agent)** - Content curation & scheduling  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=social)
-- **[Agent Inbox](https://github.com/langchain-ai/agent-inbox)** - Human-in-the-loop UI  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox?style=social)
-- **[Full-Stack Python Chatbot](https://github.com/langchain-ai/langgraph-fullstack-python)** - React-style agent with a modern web UI, all hosted within a single LangGraph deployment  ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox?style=social)
-- **[Generative UI Examples](https://github.com/langchain-ai/langgraphjs-gen-ui-examples)** - Collection of agents with generative UI components including stockbroker, trip planner, and email assistant ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs-gen-ui-examples?style=social)
-- **[LangChain Next.js Template](https://github.com/langchain-ai/langchain-nextjs-template)** - Comprehensive starter with chat, structured output, agents, and RAG examples ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain-nextjs-template?style=social)
-- **[Custom Auth Template](https://github.com/langchain-ai/custom-auth)** - OAuth2-based access control for LangGraph with Supabase and React ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/custom-auth?style=social)
+You can use these as reference architectures or starting points for your own projects.
+
+| Name | Description |
+|------|-------------|
+| [ChatLangChain](https://github.com/langchain-ai/chat-langchain)![GitHub stars](https://img.shields.io/github/stars/langchain-ai/chat-langchain?style=social) | Documentation assistant powered by RAG-based semantic search with intelligent query analysis. Features automated content indexing, duplicate prevention, GenUI, and sophisticated document tracking system. |
+| [OpenGPTs](https://github.com/langchain-ai/opengpts)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/opengpts?style=social) | Open-source GPT alternative supporting 60+ LLM providers and tools. Implements three cognitive architectures (Assistant, RAG, Chatbot) with PostgreSQL backend and flexible deployment options. |
+| [Executive AI Assistant](https://github.com/langchain-ai/executive-ai-assistant)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/executive-ai-assistant?style=social) | Smart email management system with calendar integration. Provides intelligent triage, automated response drafting, and meeting coordination through Gmail API with customizable workflows. |
+| [Agent Inbox](https://github.com/langchain-ai/agent-inbox)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-inbox?style=social) | Centralized interface for AI agent interactions featuring real-time communication, interrupt handling, and configurable response systems for both local and cloud deployments. |
+| [Python Fullstack](https://github.com/langchain-ai/langgraph-fullstack-python)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-fullstack-python?style=social) | All-in-one chatbot template combining React-style agents with modern UI. Built with FastHTML components and Claude 3, featuring single-deployment architecture and extensible tools. |
+| [LangGraph UI Examples](https://github.com/langchain-ai/langgraphjs-gen-ui-examples)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs-gen-ui-examples?style=social) | Showcase of generative UI agents including stockbroker, trip planner, and email tools. Demonstrates human-in-the-loop workflows with customizable components and tool integrations. |
+| [LangChain Next.js](https://github.com/langchain-ai/langchain-nextjs-template)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain-nextjs-template?style=social) | Next.js starter template showcasing LangChain.js modules. Includes streaming chat, structured output, multi-step agents, and RAG implementations with Vercel AI SDK integration. |
+| [Custom Auth](https://github.com/langchain-ai/custom-auth)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/custom-auth?style=social) | Supabase-powered authentication template for LangGraph deployments. Implements OAuth2 with Google, user management, and secure chatbot access with conversation thread isolation. |
+
+
 
 ---
 
 ### Development Tools
 LangGraph provides official development tools to streamline your workflow, from visual design to code generation. These tools help you build and deploy LangGraph applications more efficiently.
 
-- **[LangGraph Builder](https://github.com/langchain-ai/langgraph-builder)** – Visual canvas for designing cognitive architectures of LangGraph applications with code generation for Python and TypeScript ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-builder?style=social)
-- **[LangGraph Generator](https://github.com/langchain-ai/langgraph-gen-py)** – CLI tool for generating LangGraph application stubs from YAML specifications ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-gen-py?style=social)
+- **[LangGraph Builder](https://github.com/langchain-ai/langgraph-builder)** – Visual canvas for designing cognitive architectures of LangGraph applications with code generation for Python and TypeScript 
+- **[LangGraph Generator](https://github.com/langchain-ai/langgraph-gen-py)** – CLI tool for generating LangGraph application stubs from YAML specifications 
 
 #### Third-Party Packages
-Ready-to-use integrations for extending LangGraph with external services and tools. Access everything from LLMs to databases to development tools.
+Ready-to-use integrations for extending LangGraph with external services and tools. Access everything from LLMs, vector stores to databases to development tools.
 
-🔗 [Python Packages](https://python.langchain.com/docs/integrations/providers/all/) ![Python](https://img.shields.io/badge/Python-Integrations-3776AB?logo=python&logoColor=white)
-
-🔗 [JavaScript Packages](https://js.langchain.com/docs/integrations/platforms/) ![TypeScript](https://img.shields.io/badge/TypeScript-Integrations-3178C6?logo=typescript&logoColor=white)
-
+🔗 [Python Packages](https://python.langchain.com/docs/integrations/providers/all/)  | 🔗 [JavaScript Packages](https://js.langchain.com/docs/integrations/platforms/) 
 ## Community Projects
 
 This is a curated list of open-source agent and LLM projects. They are grouped by category for easier discovery.
@@ -297,7 +298,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 
 ### Courses
 - **[Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)** - Official course covering fundamentals and practical use cases.
-- **[LangGraph - Develop LLM powered AI agents](https://www.udemy.com/course/langgraph/)** - Course on building AI agents with LangGraph by @emarco177
+- **[LangGraph - Develop LLM powered AI agents](https://www.udemy.com/course/langgraph/)** - Course on building AI agents with LangGraph by [@emarco177](https://github.com/@emarco177)
 
 
 ### Tutorials & Examples
@@ -336,7 +337,7 @@ A comprehensive list of organizations using LangGraph in production environments
 
 **We welcome contributions to this awesome list! Please ensure your submission**:
 
-- Is actively maintained and relevant to LangGraph
+
 - Includes a clear description of its purpose and value
 - Follows the existing format and style
 - Is placed in the appropriate category
@@ -352,7 +353,7 @@ For questions or suggestions, please open an issue.
 
 ## Acknowledgments
 
-Special thanks to the LangChain team for building such an amazing framework and ecosystem that enables developers to create powerful AI applications. 
+Special thanks to the [@langchain-ai](https://github.com/langchain-ai) team for building such an amazing framework and ecosystem that enables developers to create powerful AI applications. 
 > This list is inspired by [awesome-langchain](https://github.com/kyrolabs/awesome-langchain), which has been a great resource for the community.
 
 ---
