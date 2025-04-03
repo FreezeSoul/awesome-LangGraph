@@ -8,22 +8,23 @@
 ## Table of Contents
 
 - [Core Ecosystem](#core-ecosystem)
-  - [LangChain Ecosystem Overview](#langchain-ecosystem-overview)
+  - [LangChain Ecosystem](#langchain-ecosystem)
+    - [Overview](#overview)
+    - [Core Components](#core-components)
   - [LangGraph Platform](#langgraph-platform)
 - [Official Resources](#official-resources)
   - [Starter Templates](#starter-templates)
   - [Pre-built Agents](#pre-built-agents)
   - [Example Applications](#example-applications)
-  - [Tools & Integrations](#tools--integrations)
-    - [Official Tools](#official-tools)
+  - [Development Tools](#development-tools)
+    - [LLM Documentation Files](#llm-documentation-files)
     - [Third-Party Packages](#third-party-packages)
 - [Community Projects](#community-projects)
-  - [Pre-built Agents](#community-pre-built-agents)
+  - [Community Pre-built Agents](#community-pre-built-agents)
   - [AI Assistants](#ai-assistants)
   - [Development & Tools](#development--tools)
   - [Content & Media](#content--media)
   - [Knowledge & Retrieval](#knowledge--retrieval)
-  - [Finance & Business](#finance--business)
   - [Sustainability](#sustainability)
 - [Learning Resources](#learning-resources)
   - [Courses](#courses)
@@ -228,6 +229,19 @@ LangGraph provides official development tools to streamline your workflow, from 
 - **[LangGraph Builder](https://github.com/langchain-ai/langgraph-builder)** – Visual canvas for designing cognitive architectures of LangGraph applications with code generation for Python and TypeScript 
 - **[LangGraph Generator](https://github.com/langchain-ai/langgraph-gen-py)** – CLI tool for generating LangGraph application stubs from YAML specifications 
 
+#### LLM Documentation Files
+Access official documentation in LLM-readable formats, enabling LLMs and agents to understand and work with the frameworks, particularly within integrated development environments (IDEs). Learn more in the [official documentation](https://langchain-ai.github.io/langgraph/llms-txt-overview/).
+
+| Framework | Index File | Full Documentation |
+|-----------|------------|-------------------|
+| LangGraph Python | [llms.txt](https://langchain-ai.github.io/langgraph/llms.txt) | [llms-full.txt](https://langchain-ai.github.io/langgraph/llms-full.txt) |
+| LangGraph JS | [llms.txt](https://langchain-ai.github.io/langgraphjs/llms.txt) | [llms-full.txt](https://langchain-ai.github.io/langgraphjs/llms-full.txt) |
+| LangChain Python | [llms.txt](https://python.langchain.com/llms.txt) | - |
+| LangChain JS | [llms.txt](https://js.langchain.com/llms.txt) | - |
+
+The `llms.txt` files serve as lightweight indexes for quick reference, while `llms-full.txt` provides comprehensive documentation for deeper understanding and integration.
+
+
 #### Third-Party Packages
 Ready-to-use integrations for extending LangGraph with external services and tools. Access everything from LLMs, vector stores to databases to development tools.
 
@@ -235,6 +249,7 @@ Ready-to-use integrations for extending LangGraph with external services and too
 ## Community Projects
 
 This is a curated list of open-source agent and LLM projects. They are grouped by category for easier discovery.
+
 
 
 ### Community Pre-built Agents
