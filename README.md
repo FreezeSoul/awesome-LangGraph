@@ -25,6 +25,7 @@
   - [Development & Tools](#development--tools)
   - [Content & Media](#content--media)
   - [Knowledge & Retrieval](#knowledge--retrieval)
+  - [Finance & Buisness](#finance--buisness)
   - [Sustainability](#sustainability)
 - [Learning Resources](#learning-resources)
   - [Courses](#courses)
@@ -307,6 +308,13 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[Shandu](https://github.com/jolovicdev/shandu)** – LLM-based research system that automates source evaluation and knowledge synthesis. ![GitHub stars](https://img.shields.io/github/stars/jolovicdev/shandu)
 - **[Local Deep Research](https://github.com/LearningCircuit/local-deep-research)** – Privacy-focused research assistant performing deep analysis using multiple LLMs and web searches with local execution capability ![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social)
 - **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** – Open deep research agent producing detailed reports with citations, using Plan-and-Solve and RAG techniques ![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
+
+
+
+### Finance & Business
+- [AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator) - Discovers and analyzes enterprise AI case studies. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)
+- [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Six AI agents collaborating through LangChain for smart trading decisions. ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund)
+- [gotoHuman Lead Agent](https://github.com/gotohuman/gotohuman-langgraph-lead-example) - AI-powered sales solution for automated personalized email drafting with human oversight. ![GitHub stars](https://img.shields.io/github/stars/gotohuman/gotohuman-langgraph-lead-example)
 
 
 ### Sustainability
