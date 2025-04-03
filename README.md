@@ -310,8 +310,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** – Open deep research agent producing detailed reports with citations, using Plan-and-Solve and RAG techniques ![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 
 
-
-### Finance & Business
+### Finance & Buisness 
 - [AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator) - Discovers and analyzes enterprise AI case studies. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Six AI agents collaborating through LangChain for smart trading decisions. ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund)
 - [gotoHuman Lead Agent](https://github.com/gotohuman/gotohuman-langgraph-lead-example) - AI-powered sales solution for automated personalized email drafting with human oversight. ![GitHub stars](https://img.shields.io/github/stars/gotohuman/gotohuman-langgraph-lead-example)
