@@ -219,6 +219,7 @@ You can use these as reference architectures or starting points for your own pro
 | [LangGraph UI Examples](https://github.com/langchain-ai/langgraphjs-gen-ui-examples)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs-gen-ui-examples?style=social) | Showcase of generative UI agents including stockbroker, trip planner, and email tools. Demonstrates human-in-the-loop workflows with customizable components and tool integrations. |
 | [LangChain Next.js](https://github.com/langchain-ai/langchain-nextjs-template)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain-nextjs-template?style=social) | Next.js starter template showcasing LangChain.js modules. Includes streaming chat, structured output, multi-step agents, and RAG implementations with Vercel AI SDK integration. |
 | [Custom Auth](https://github.com/langchain-ai/custom-auth)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/custom-auth?style=social) | Supabase-powered authentication template for LangGraph deployments. Implements OAuth2 with Google, user management, and secure chatbot access with conversation thread isolation. |
+| [Gen UI Computer Use](https://github.com/bracesproul/gen-ui-computer-use)<br>![GitHub stars](https://img.shields.io/github/stars/bracesproul/gen-ui-computer-use?style=social) | A Generative UI web app for interacting with Computer Use Agents (CUA) via the `@langchain/langgraph-cua` prebuilt package. Features a modern interface for computer automation and task management. |
 
 
 
