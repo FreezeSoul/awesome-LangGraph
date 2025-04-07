@@ -330,8 +330,9 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 
 
 ### Tutorials & Examples
-- **[GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)** - Agent implementation examples ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=social)
-- **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Several RAG implementations and tutorials ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social)
+- **[Ava WhatsApp Agent ](https://github.com/neural-maze/ava-whatsapp-agent-course)** - Course on building a  WhatsApp agent with LangGraph, featuring voice processing, image generation, and long-term memory. ![GitHub stars](https://img.shields.io/github/stars/neural-maze/ava-whatsapp-agent-course?style=social) 
+- **[GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)** - Agent implementation examples ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=social)
+- **[RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)** - Several RAG implementations and tutorials ![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social)
 - **[Grounding RAG Applications Workshop](https://github.com/carlyrichmond/webdevcon-grounding-rag-applications-workshop)** - Hands-on workshop building RAG chatbots and travel planning agents with JavaScript and Elasticsearch ![GitHub stars](https://img.shields.io/github/stars/carlyrichmond/webdevcon-grounding-rag-applications-workshop?style=social)
 
 ---
