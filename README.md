@@ -287,6 +287,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[SRAgent](https://github.com/ArcInstitute/SRAgent)** – Multi-agent framework for automating genomic research and RNA sequencing workflows from scientific databases. ![GitHub stars](https://img.shields.io/github/stars/ArcInstitute/SRAgent)
 - **[Google GenAI Toolbox](https://github.com/googleapis/genai-toolbox)** – Production-grade infrastructure for connecting AI agents with databases, featuring security, observability, and connection pooling ![GitHub stars](https://img.shields.io/github/stars/googleapis/genai-toolbox?style=social)
 - **[LangGraph MCP Agents](https://github.com/teddynote-lab/langgraph-mcp-agents)** – Toolkit for integrating Model Context Protocol (MCP) with LangGraph agents, featuring Streamlit interface, dynamic tool management, and real-time streaming responses. ![GitHub stars](https://img.shields.io/github/stars/teddynote-lab/langgraph-mcp-agents?style=social)
+- **[LangManus](https://github.com/Darwin-lfl/langmanus)** – Community-driven AI automation framework combining language models with specialized tools for web search, crawling, and Python code execution. ![GitHub stars](https://img.shields.io/github/stars/Darwin-lfl/langmanus?style=social)
 
 
 
