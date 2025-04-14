@@ -298,6 +298,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[Robo-blogger](https://github.com/langchain-ai/robo-blogger)** – Voice-to-content pipeline for converting spoken ideas into structured blog posts. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/robo-blogger)
 - **[Social Media Agent](https://github.com/langchain-ai/social-media-agent)** – Generates Twitter & LinkedIn posts from URLs with optional human review. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent)
 - **[YT Navigator](https://github.com/wassim249/YT-Navigator)** – AI-powered tool for efficient navigation and search through YouTube channel content ![GitHub stars](https://img.shields.io/github/stars/wassim249/YT-Navigator?style=social)
+- **[AI-Powered Podcast Creation](https://github.com/artnoage/Podcast)** – Automated workflow for creating engaging podcasts from academic texts using AI agents, featuring content summarization, script writing, and self-improving prompt optimization based on user feedback. ![GitHub stars](https://img.shields.io/github/stars/artnoage/Podcast?style=social)
 
 
 
