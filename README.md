@@ -275,6 +275,8 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[AI Conversation Simulator](https://github.com/sanjeed5/ai-conversation-simulator)** – Test and develop AI assistants through simulated conversations with configurable personas and LangSmith integration ![GitHub stars](https://img.shields.io/github/stars/sanjeed5/ai-conversation-simulator?style=social)
 - **[SurfSense](https://github.com/MODSetter/SurfSense)** – Customizable AI research agent that integrates personal knowledge bases with external sources like Tavily, Slack, and Notion ![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social)
 - **[RAI](https://github.com/RobotecAI/rai)** – Flexible multi-agent framework for developing and deploying Embodied AI features in robotics with multi-modal interaction support ![GitHub stars](https://img.shields.io/github/stars/RobotecAI/rai?style=social)
+- **[Open Multi-Agent Canvas](https://github.com/CopilotKit/open-multi-agent-canvas)** – Dynamic chat interface for managing multiple agents in one conversation, featuring travel planning and research capabilities through MCP servers, built with Next.js and LangGraph. ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/open-multi-agent-canvas?style=social)
+- **[InboxHero](https://github.com/zamalali/InboxHero)** – Smart email management assistant built with LangGraph that prioritizes messages, reads attachments, and drafts replies using ChatGroq, featuring interactive chat mode and customizable time frames. ![GitHub stars](https://img.shields.io/github/stars/zamalali/InboxHero?style=social)
 
 
 
