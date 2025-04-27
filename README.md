@@ -295,6 +295,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[LangManus](https://github.com/Darwin-lfl/langmanus)** – Community-driven AI automation framework combining language models with specialized tools for web search, crawling, and Python code execution. ![GitHub stars](https://img.shields.io/github/stars/Darwin-lfl/langmanus?style=social)
 - **[FastAPI LangGraph Agent Template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)** – Production-ready FastAPI template for building AI agent applications with LangGraph integration, featuring high-performance async API endpoints, LLM observability, structured logging, PostgreSQL persistence, Docker support, and comprehensive security features. ![GitHub stars](https://img.shields.io/github/stars/wassim249/fastapi-langgraph-agent-production-ready-template?style=social)
 - **[Ryoma](https://github.com/project-ryoma/ryoma)**  – AI-powered data agent framework for data analysis, engineering, and visualization, combining LangChain, Reflex, Apache Arrow, and more. ![GitHub stars](https://img.shields.io/github/stars/project-ryoma/ryoma?style=social)
+- **[FastAPI MCP LangGraph Template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)** – Production-ready FastAPI template integrating LangGraph and MCP for agent orchestration, streaming UX, and database persistence. ![GitHub stars](https://img.shields.io/github/stars/NicholasGoh/fastapi-mcp-langgraph-template?style=social)
 
 
 
