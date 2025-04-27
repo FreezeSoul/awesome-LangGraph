@@ -1,4 +1,4 @@
-# 🦜🕸️ Awesome LangGraph ![Awesome](https://awesome.re/badge.svg)
+# 🦜🕸️ Awesome LangGraph ![Awesome](https://awesome.re/badge.svg) ![Last Updated](https://img.shields.io/github/last-commit/von-development/awesome-LangGraph)
 
 > A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with [LangGraph](https://github.com/langchain-ai/langgraph).
 
@@ -166,6 +166,9 @@ The LangGraph Platform provides tools and services for building, deploying, and 
 ---
 
 ## Official Resources
+
+Official templates, tools, and libraries maintained by LangChain and LangGraph teams.
+
 
 ### Starter Templates
 
