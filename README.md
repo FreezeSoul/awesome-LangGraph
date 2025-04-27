@@ -280,6 +280,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[RAI](https://github.com/RobotecAI/rai)** – Flexible multi-agent framework for developing and deploying Embodied AI features in robotics with multi-modal interaction support ![GitHub stars](https://img.shields.io/github/stars/RobotecAI/rai?style=social)
 - **[Open Multi-Agent Canvas](https://github.com/CopilotKit/open-multi-agent-canvas)** – Dynamic chat interface for managing multiple agents in one conversation, featuring travel planning and research capabilities through MCP servers, built with Next.js and LangGraph. ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/open-multi-agent-canvas?style=social)
 - **[InboxHero](https://github.com/zamalali/InboxHero)** – Smart email management assistant built with LangGraph that prioritizes messages, reads attachments, and drafts replies using ChatGroq, featuring interactive chat mode and customizable time frames. ![GitHub stars](https://img.shields.io/github/stars/zamalali/InboxHero?style=social)
+- **[Multi-Agent Medical Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant)** – AI-powered multi-agent system for medical diagnosis, research, and patient interaction, featuring LLMs, RAG, and human-in-the-loop validation. ![GitHub stars](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=social)
 
 
 
