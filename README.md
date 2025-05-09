@@ -313,6 +313,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 
 
 ### Knowledge & Retrieval
+- **[Company Research Agent](https://github.com/pogjester/company-research-agent)** – Multi-agent system for comprehensive company research, featuring real-time progress streaming, AI-powered content filtering, and modular research pipeline. ![GitHub stars](https://img.shields.io/github/stars/pogjester/company-research-agent?style=social)
 - **[bRAG](https://github.com/bRAGAI/bRAG-langchain)** – Tutorial series on RAG (Retrieval Augmented Generation) from basics to advanced. ![GitHub stars](https://img.shields.io/github/stars/bRAGAI/bRAG-langchain)
 - **[DeepGit](https://github.com/zamalali/DeepGit)** – Advanced LangGraph-based agentic workflow for intelligent GitHub repository discovery, featuring hybrid dense retrieval, cross-encoder re-ranking, and comprehensive activity analysis. ![GitHub stars](https://img.shields.io/github/stars/zamalali/DeepGit?style=social)
 - **[AI PDF Chatbot](https://github.com/mayooear/ai-pdf-chatbot-langchain)** – Customizable template for building AI chatbots that process PDF documents using LangChain and LangGraph, featuring document ingestion, vector storage, and streaming responses. ![GitHub stars](https://img.shields.io/github/stars/mayooear/ai-pdf-chatbot-langchain?style=social)
