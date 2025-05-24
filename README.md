@@ -338,7 +338,8 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[Curie - Research Experimentation Agent](https://github.com/Just-Curieous/Curie)** - AI research agent to automate rigorous scientific experimentation and produce meaningful empirical results, driving discovery across ML, systems & more. ![GitHub stars](https://img.shields.io/github/stars/Just-Curieous/Curie?style=social)
 
 ### Finance & Business
-- [AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator) - Discovers and analyzes enterprise AI case studies. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)
+- **[Marketing Analyst Agent](https://github.com/oba2311/analyst_agent)** – AI-powered marketing analysis system built with LangChain, featuring market trend forecasting, sentiment analysis, campaign evaluation, and automated report generation with strategic recommendations. ![GitHub stars](https://img.shields.io/github/stars/oba2311/analyst_agent?style=social)
+- **[AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator)** - Discovers and analyzes enterprise AI case studies. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Six AI agents collaborating through LangChain for smart trading decisions. ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund)
 - [gotoHuman Lead Agent](https://github.com/gotohuman/gotohuman-langgraph-lead-example) - AI-powered sales solution for automated personalized email drafting with human oversight. ![GitHub stars](https://img.shields.io/github/stars/gotohuman/gotohuman-langgraph-lead-example)
 
