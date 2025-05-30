@@ -289,6 +289,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[InboxHero](https://github.com/zamalali/InboxHero)** – Smart email management assistant built with LangGraph that prioritizes messages, reads attachments, and drafts replies using ChatGroq, featuring interactive chat mode and customizable time frames. ![GitHub stars](https://img.shields.io/github/stars/zamalali/InboxHero?style=social)
 - **[Multi-Agent Medical Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant)** – AI-powered multi-agent system for medical diagnosis, research, and patient interaction, featuring LLMs, RAG, and human-in-the-loop validation. ![GitHub stars](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=social)
 - **[LangGraph WhatsApp Agent](https://github.com/lgesuellip/langgraph-whatsapp-agent)** – Template for building scalable WhatsApp AI agents with LangGraph, supporting multi-agent systems, image processing, and MCP integration. ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/langgraph-whatsapp-agent?style=social)
+- **[Voice Agent Base](https://github.com/benjichat/voice_agent_base)** – Voice-enabled AI agent application with React interface, featuring speech-to-text via OpenAI Whisper, text-to-speech via ElevenLabs, and web search capabilities through Tavily integration. ![GitHub stars](https://img.shields.io/github/stars/benjichat/voice_agent_base?style=social)
 
 
 
