@@ -294,6 +294,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 
 
 ### Development & Tools
+- **[ARMA](https://github.com/eosho/ARMA)** – Azure Resource Management Assistant built with LangGraph and LangChain, featuring multi-agent architecture for Azure resource provisioning, ARM template validation, and comprehensive resource management with Streamlit UI. ![GitHub stars](https://img.shields.io/github/stars/eosho/ARMA?style=social)
 - **[ScienceBridge](https://github.com/RichardKaranuMbuti/ScienceBridge)** – AI-powered scientific research accelerator that autonomously analyzes datasets, generates hypotheses, and validates them through code, featuring ML model integration and automated visualization. ![GitHub stars](https://img.shields.io/github/stars/RichardKaranuMbuti/ScienceBridge?style=social)
 - **[AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit)** – Framework for deploying AI agents with FastAPI and Streamlit. ![GitHub stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit)
 - **[Browser Use: Web AI](https://github.com/browser-use/browser-use)** – Library for AI agents to interact with websites and automate web tasks. ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use)
