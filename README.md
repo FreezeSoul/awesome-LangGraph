@@ -226,6 +226,7 @@ You can use these as reference architectures or starting points for your own pro
 | [Custom Auth](https://github.com/langchain-ai/custom-auth)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/custom-auth?style=social) | Supabase-powered authentication template for LangGraph deployments. Implements OAuth2 with Google, user management, and secure chatbot access with conversation thread isolation. |
 | [Gen UI Computer Use](https://github.com/bracesproul/gen-ui-computer-use)<br>![GitHub stars](https://img.shields.io/github/stars/bracesproul/gen-ui-computer-use?style=social) | A Generative UI web app for interacting with Computer Use Agents (CUA) via the `@langchain/langgraph-cua` prebuilt package. Features a modern interface for computer automation and task management. |
 | [Multi-Modal Researcher](https://github.com/langchain-ai/multi-modal-researcher)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/multi-modal-researcher?style=social) | Research and podcast generation workflow using LangGraph with Gemini 2.5 model family. Features video understanding, Google search integration, and multi-speaker text-to-speech for creating comprehensive research reports and audio podcasts. |
+| [Deep Agents UI](https://github.com/langchain-ai/deep-agents-ui)<br>![GitHub stars](https://img.shields.io/github/stars/langchain-ai/deep-agents-ui?style=social) | Next.js interface for Deep Agents with streaming support and LangGraph Platform integration. Generic AI agents capable of handling tasks of varying complexity with customizable UI components. |
 
 
 
@@ -235,8 +236,7 @@ You can use these as reference architectures or starting points for your own pro
 LangGraph provides official development tools to streamline your workflow, from visual design to code generation. These tools help you build and deploy LangGraph applications more efficiently.
 
 - **[LangGraph Builder](https://github.com/langchain-ai/langgraph-builder)** – Visual canvas for designing cognitive architectures of LangGraph applications with code generation for Python and TypeScript 
-- **[LangGraph Generator](https://github.com/langchain-ai/langgraph-gen-py)** – CLI tool for generating LangGraph application stubs from YAML specifications
-- **[Deep Agents UI](https://github.com/langchain-ai/deep-agents-ui)** – Next.js interface for Deep Agents with streaming support and LangGraph Platform integration 
+- **[LangGraph Generator](https://github.com/langchain-ai/langgraph-gen-py)** – CLI tool for generating LangGraph application stubs from YAML specifications 
 
 #### LLM Documentation Files
 Access official documentation in LLM-readable formats, enabling LLMs and agents to understand and work with the frameworks, particularly within integrated development environments (IDEs). Learn more in the [official documentation](https://langchain-ai.github.io/langgraph/llms-txt-overview/).
