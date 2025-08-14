@@ -235,7 +235,8 @@ You can use these as reference architectures or starting points for your own pro
 LangGraph provides official development tools to streamline your workflow, from visual design to code generation. These tools help you build and deploy LangGraph applications more efficiently.
 
 - **[LangGraph Builder](https://github.com/langchain-ai/langgraph-builder)** – Visual canvas for designing cognitive architectures of LangGraph applications with code generation for Python and TypeScript 
-- **[LangGraph Generator](https://github.com/langchain-ai/langgraph-gen-py)** – CLI tool for generating LangGraph application stubs from YAML specifications 
+- **[LangGraph Generator](https://github.com/langchain-ai/langgraph-gen-py)** – CLI tool for generating LangGraph application stubs from YAML specifications
+- **[Deep Agents UI](https://github.com/langchain-ai/deep-agents-ui)** – Next.js interface for Deep Agents with streaming support and LangGraph Platform integration 
 
 #### LLM Documentation Files
 Access official documentation in LLM-readable formats, enabling LLMs and agents to understand and work with the frameworks, particularly within integrated development environments (IDEs). Learn more in the [official documentation](https://langchain-ai.github.io/langgraph/llms-txt-overview/).
