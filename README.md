@@ -352,6 +352,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator)** - Discovers and analyzes enterprise AI case studies. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)
 - **[AI Hedge Fund](https://github.com/virattt/ai-hedge-fund)** - Six AI agents collaborating through LangChain for smart trading decisions. ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund)
 - **[gotoHuman Lead Agent](https://github.com/gotohuman/gotohuman-langgraph-lead-example)** - AI-powered sales solution for automated personalized email drafting with human oversight. ![GitHub stars](https://img.shields.io/github/stars/gotohuman/gotohuman-langgraph-lead-example)
+- **[AI Bank Statement Document Automation](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction)** – Automated bank statement processing system using LLM models for document extraction, RAG techniques, and personal financial analysis. Features OCR, computer vision, and multi-agent workflows for converting unstructured PDF documents into structured data with natural language querying capabilities. ![GitHub stars](https://img.shields.io/github/stars/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction)
 
 
 ### Sustainability
