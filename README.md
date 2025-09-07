@@ -376,6 +376,7 @@ Official courses from LangChain Academy for learning LangGraph and related techn
 
 - **[Foundation: Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)** - Learn the basics of LangGraph framework for building agentic and multi-agent applications. Covers motivation, simple graphs, chains, routers, agents, state management, memory, streaming, and deployment.
 - **[Project: Building Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents)** - Build your own ambient agent to manage email. Learn LangGraph fundamentals while building an email assistant from scratch, including agent evaluations and LangSmith integration.
+- **[Project: Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph)** - Build your own deep research agent to handle research tasks. Learn how to use LangGraph to build a multi-agent system with research agents, MCP integration, and research supervisors.
 - **[Foundation: Introduction to Agent Observability & Evaluations](https://academy.langchain.com/courses/intro-to-langsmith)** - Learn essentials of agent observability and evaluations with LangSmith. Covers tracing, testing, evaluation, prompt engineering, human feedback collection, and production monitoring.
 
 ### Third-Party Courses
