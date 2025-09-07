@@ -316,6 +316,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[Ryoma](https://github.com/project-ryoma/ryoma)**  – AI-powered data agent framework for data analysis, engineering, and visualization, combining LangChain, Reflex, Apache Arrow, and more. ![GitHub stars](https://img.shields.io/github/stars/project-ryoma/ryoma?style=social)
 - **[FastAPI MCP LangGraph Template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)** – Production-ready FastAPI template integrating LangGraph and MCP for agent orchestration, streaming UX, and database persistence. ![GitHub stars](https://img.shields.io/github/stars/NicholasGoh/fastapi-mcp-langgraph-template?style=social)
 - **[ScrapeCraft](https://github.com/ScrapeGraphAI/scrapecraft)** – AI-powered web scraping editor with visual workflow builder using LangGraph and ScrapeGraphAI. Features natural language scraping pipeline creation, multi-URL bulk scraping, and real-time WebSocket streaming with Docker deployment. ![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/scrapecraft?style=social)
+- **[DeepMCPAgent](https://github.com/cryxnet/deepmcpagent)** – Model-agnostic LangChain/LangGraph agent framework powered entirely by MCP tools over HTTP/SSE. Features plug-and-play architecture, dynamic tool discovery, and support for both DeepAgents and ReAct patterns with comprehensive observability. ![GitHub stars](https://img.shields.io/github/stars/cryxnet/deepmcpagent?style=social)
 
 
 
@@ -326,6 +327,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[Social Media Agent](https://github.com/langchain-ai/social-media-agent)** – Generates Twitter & LinkedIn posts from URLs with optional human review. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent)
 - **[YT Navigator](https://github.com/wassim249/YT-Navigator)** – AI-powered tool for efficient navigation and search through YouTube channel content ![GitHub stars](https://img.shields.io/github/stars/wassim249/YT-Navigator?style=social)
 - **[AI-Powered Podcast Creation](https://github.com/artnoage/Podcast)** – Automated workflow for creating engaging podcasts from academic texts using AI agents, featuring content summarization, script writing, and self-improving prompt optimization based on user feedback. ![GitHub stars](https://img.shields.io/github/stars/artnoage/Podcast?style=social)
+- **[News Agent](https://github.com/nickhawn/news-agent)** – AI-powered news aggregation agent that provides personalized daily news summaries using Tavily web crawling. Features adaptive learning from user preferences, memory-based personalization, and intelligent content curation. ![GitHub stars](https://img.shields.io/github/stars/nickhawn/news-agent?style=social)
 
 
 
