@@ -370,8 +370,15 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 
 ## Learning Resources
 
-### Courses
-- **[Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)** - Official course covering fundamentals and practical use cases.
+### LangGraph Academy
+
+Official courses from LangChain Academy for learning LangGraph and related technologies:
+
+- **[Foundation: Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)** - Learn the basics of LangGraph framework for building agentic and multi-agent applications. Covers motivation, simple graphs, chains, routers, agents, state management, memory, streaming, and deployment.
+- **[Project: Building Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents)** - Build your own ambient agent to manage email. Learn LangGraph fundamentals while building an email assistant from scratch, including agent evaluations and LangSmith integration.
+- **[Foundation: Introduction to Agent Observability & Evaluations](https://academy.langchain.com/courses/intro-to-langsmith)** - Learn essentials of agent observability and evaluations with LangSmith. Covers tracing, testing, evaluation, prompt engineering, human feedback collection, and production monitoring.
+
+### Third-Party Courses
 - **[LangGraph - Develop LLM powered AI agents](https://www.udemy.com/course/langgraph/)** - Course on building AI agents with LangGraph by [@emarco177](https://github.com/@emarco177)
 
 
