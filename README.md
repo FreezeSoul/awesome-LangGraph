@@ -112,7 +112,7 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 
 
 <details>
-<summary><div align="center"><strong>▫️ Core Components and Usage ▫️</strong></div></summary>
+<summary><strong>▫️ Core Components and Usage ▫️</strong></summary>
 
 **Essential building blocks and advanced capabilities for LangChain applications** - from fundamental components to sophisticated AI features.
 
@@ -146,7 +146,7 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 </details>
 
 <details>
-<summary><div align="center"><strong>▫️ LangChain Libraries ▫️</strong></div></summary>
+<summary><strong>▫️ LangChain Libraries ▫️</strong></summary>
 
 
 | Package | Python | TypeScript | Description |
@@ -162,7 +162,7 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 </details>
 
 <details>
-<summary><div align="center"><strong>▫️ LangChain Documentation ▫️</strong></div></summary>
+<summary><strong>▫️ LangChain Documentation ▫️</strong></summary>
 
 Access the official LangChain documentation across different versions and languages:
 
@@ -177,7 +177,7 @@ Access the official LangChain documentation across different versions and langua
 </details>
 
 <details>
-<summary><div align="center"><strong>▫️ LangChain llms.txt Files ▫️</strong></div></summary>
+<summary><strong>▫️ LangChain llms.txt Files ▫️</strong></summary>
 
 **AI-accessible documentation format for LLMs and IDEs** - Documentation files in llms.txt format that allow large language models and agents to access programming documentation and APIs, particularly useful within integrated development environments.
 
@@ -210,7 +210,7 @@ Access the official LangChain documentation across different versions and langua
 **LangGraph** is an open-source framework for building **AI agents and multi-agent systems** as graphs, and is a core part of the **LangChain Ecosystem**. It focuses on **agent orchestration**, enabling sophisticated AI applications that can maintain state, coordinate multiple agents, and handle complex reasoning processes through graph-based workflows.
 
 <details>
-<summary><div align="center"><strong>▫️ Core Features ▫️</strong></div></summary>
+<summary><strong>▫️ Core Features ▫️</strong></summary>
 
 | Capability | Description | Key Features |
 |------------|-------------|--------------|
@@ -227,7 +227,7 @@ Access the official LangChain documentation across different versions and langua
 
 
 <details>
-<summary><div align="center"><strong> ▫️ LangGraph Libraries and SDKs ▫️</strong></div></summary>
+<summary><strong> ▫️ LangGraph Libraries and SDKs ▫️</strong></summary>
 
 | Package | Python | TypeScript | Description |
 |---------|--------|------------|-------------|
@@ -238,7 +238,7 @@ Access the official LangChain documentation across different versions and langua
 </details>
 
 <details>
-<summary><div align="center"><strong> ▫️ LangGraph Starter Templates ▫️</strong></div></summary>
+<summary><strong> ▫️ LangGraph Starter Templates ▫️</strong></summary>
 
 Get started quickly with LangGraph using the CLI command `langgraph new` to choose from pre-built templates:
 
@@ -253,7 +253,7 @@ Get started quickly with LangGraph using the CLI command `langgraph new` to choo
 </details>
 
 <details>
-<summary><div align="center"><strong> ▫️ LangGraph Documentation ▫️</strong></div></summary>
+<summary><strong> ▫️ LangGraph Documentation ▫️</strong></summary>
 
 Access the official LangGraph documentation across different languages:
 
@@ -268,7 +268,7 @@ Access the official LangGraph documentation across different languages:
 </details>
 
 <details>
-<summary><div align="center"><strong>▫️ LangGraph llms.txt Files ▫️</strong></div></summary>
+<summary><strong>▫️ LangGraph llms.txt Files ▫️</strong></summary>
 
 **AI-accessible documentation format for LLMs and IDEs** - Documentation files in llms.txt format that allow large language models and agents to access programming documentation and APIs, particularly useful within integrated development environments.
 
@@ -310,7 +310,7 @@ Access the official LangGraph documentation across different languages:
 
 
 <details>
-<summary><div align="center"><strong>🔹 Core Features</strong></div></summary>
+<summary><strong>🔹 Core Features 🔹</strong></summary>
 
 | Feature | Description | Key Capabilities |
 |---------|-------------|-----------------|
@@ -322,7 +322,7 @@ Access the official LangGraph documentation across different languages:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔹 LangSmith SDK</strong></div></summary>
+<summary><strong>🔹 LangSmith SDK 🔹</strong></summary>
 
 | Package | Python | TypeScript | Description |
 |---------|--------|------------|-------------|
@@ -331,7 +331,7 @@ Access the official LangGraph documentation across different languages:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔹 LangSmith Documentation</strong></div></summary>
+<summary><strong>🔹 LangSmith Documentation 🔹</strong></summary>
 
 Access the official LangSmith platform documentation:
 
@@ -369,7 +369,7 @@ Access the official LangSmith platform documentation:
 *In the dropdowns below, you'll find a summary of each component's key concepts and links to the official documentation.*
 
 <details>
-<summary><div align="center"><strong>🔺 LangGraph Server 🔺</strong></div></summary>
+<summary><strong>🔺 LangGraph Server 🔺</strong></summary>
 
 **API platform for creating and managing agent-based applications.** Built on the concept of assistants (agents configured for specific tasks) with built-in persistence and task queue for production deployments.
 
@@ -386,7 +386,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong> 🔺LangGraph CLI 🔺</strong></div></summary>
+<summary><strong> 🔺LangGraph CLI 🔺</strong></summary>
 
 **Multi-platform command-line tool for building and running LangGraph API servers locally.** Includes all API endpoints and services required for agent development and deployment.
 
@@ -401,7 +401,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔺 LangGraph Studio 🔺</strong></div></summary>
+<summary><strong>🔺 LangGraph Studio 🔺</strong></summary>
 
 **Specialized agent IDE for visualization, interaction, and debugging of agentic systems.** Connects to LangGraph Server and integrates with LangSmith for comprehensive development experience.
 
@@ -418,7 +418,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔺 Python/JS SDK 🔺</strong></div></summary>
+<summary><strong>🔺 Python/JS SDK 🔺</strong></summary>
 
 **Programmatic interfaces for interacting with deployed LangGraph applications.** Provides both synchronous and asynchronous clients for comprehensive API access.
 
@@ -434,7 +434,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔺 Remote Graph 🔺</strong></div></summary>
+<summary><strong>🔺 Remote Graph 🔺</strong></summary>
 
 **Interface for interacting with deployed LangGraph applications as if they were running locally.** Seamlessly bridge local development with production deployments.
 
@@ -450,7 +450,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔺 Control Plane 🔺</strong></div></summary>
+<summary><strong>🔺 Control Plane 🔺</strong></summary>
 
 **Management interface for creating and updating LangGraph Server deployments.** Provides UI and APIs for deployment configuration and administration.
 
@@ -466,7 +466,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔺 Data Plane 🔺</strong></div></summary>
+<summary><strong>🔺 Data Plane 🔺</strong></summary>
 
 **Runtime infrastructure encompassing LangGraph Servers and supporting components.** Includes all infrastructure required for production agent deployments.
 
@@ -496,7 +496,7 @@ Access the official LangSmith platform documentation:
 
 
 <details>
-<summary><div align="center"><strong>🔸 Chat Models 🔸</strong></div></summary>
+<summary><strong>🔸 Chat Models 🔸</strong></summary>
 
 **Language models that use message sequences as input/output for conversational AI.** Support tool calling, structured output, streaming, and multimodal inputs for building sophisticated chat applications.
 
@@ -506,7 +506,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔸 Embedding Models 🔸</strong></div></summary>
+<summary><strong>🔸 Embedding Models 🔸</strong></summary>
 
 **Transform raw text into fixed-length vectors that capture semantic meaning.** Enable machines to compare and search text based on meaning rather than exact words. Essential for RAG applications and semantic search.
 
@@ -516,7 +516,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔸 Vector Stores 🔸</strong></div></summary>
+<summary><strong>🔸 Vector Stores 🔸</strong></summary>
 
 **Databases optimized for storing and querying high-dimensional vectors using similarity metrics.** Used with embedding models to enable semantic search, document retrieval, and knowledge base applications.
 
@@ -526,7 +526,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔸 Document Loaders 🔸</strong></div></summary>
+<summary><strong>🔸 Document Loaders 🔸</strong></summary>
 
 **Integrations for ingesting data from hundreds of sources.** Including PDFs, websites, databases, APIs, and cloud services. Transform diverse data formats into LangChain Document objects for processing.
 
@@ -536,7 +536,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔸 Tools & Toolkits 🔸</strong></div></summary>
+<summary><strong>🔸 Tools & Toolkits 🔸</strong></summary>
 
 **Enable agents to interact with external systems.** Define input schemas for tool calling and executing actions. Support web search, database queries, file operations, and API integrations.
 
@@ -546,7 +546,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔸 Retrievers 🔸</strong></div></summary>
+<summary><strong>🔸 Retrievers 🔸</strong></summary>
 
 **Advanced retrieval strategies that combine dense and sparse search methods.** Enable sophisticated document retrieval patterns including hybrid search, reranking, and context-aware retrieval for RAG applications.
 
@@ -556,7 +556,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔸 Text Splitters 🔸</strong></div></summary>
+<summary><strong>🔸 Text Splitters 🔸</strong></summary>
 
 **Break large documents into smaller, manageable chunks.** Maintain semantic coherence while fitting within model context windows. Essential for RAG pipelines and document processing workflows.
 
@@ -566,7 +566,7 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><div align="center"><strong>🔸 Key-Value Stores 🔸</strong></div></summary>
+<summary><strong>🔸 Key-Value Stores 🔸</strong></summary>
 
 **Simple storage interfaces for caching and state management.** Support caching embeddings, storing application state, and managing key-value data with various backends including Redis, file systems, and in-memory storage.
 
