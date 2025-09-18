@@ -88,6 +88,7 @@ Interested in translating? Open an issue to claim a language!
 - **📊 Add missing categories** - Suggest new domains we haven't covered
 - **🔍 Quality review** - Help verify links and project descriptions
 - **📈 Weekly updates** - Monitor new LangGraph/LangChain projects
+- **🏷️ Organize tag systems** - Create consistent tagging/labeling for easier project discovery
 
 
 
