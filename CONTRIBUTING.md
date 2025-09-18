@@ -15,24 +15,17 @@ git checkout -b add-new-project
 ```
 
 ### Make your changes
-Edit the `DRAFT-README.md` file with your additions or corrections. Please follow the existing format and style.
+Edit the `README.md` file following the existing format.
 
-#### When adding a new project:
-- **Project name**: Link to the repository using the format `[username/repository-name](https://github.com/username/repository-name)`
-- **Description**: Provide a clear, concise description of the project's functionality and key features
-- **GitHub Stars badge**: Include the GitHub stars badge using: `![GitHub stars](https://img.shields.io/github/stars/username/repository-name?style=social)`
-- **Category**: Place the project in the appropriate category. If a new category is needed, please create one and maintain alphabetical order
-- **Table format**: Follow the existing table structure with Project, Description, and GitHub Stars columns
-
-#### Example entry:
+#### Adding a new project:
 ```markdown
-| [username/project-name](https://github.com/username/project-name) | Brief description of what the project does and its key features | ![GitHub stars](https://img.shields.io/github/stars/username/project-name?style=social) |
+| [username/project-name](https://github.com/username/project-name) | Brief description with key features | ![GitHub stars](https://img.shields.io/github/stars/username/project-name?style=social) |
 ```
 
-#### When adding official LangChain projects:
-- Follow the dropdown format used in the "Official LangGraph Projects" section
-- Include repository links, GitHub stars, and last commit badges
-- Provide comprehensive descriptions with key features
+**Requirements:**
+- Use correct category and maintain alphabetical order
+- Clear description (under 200 chars)
+- Verify the project uses LangChain/LangGraph
 
 ### Commit your changes
 Commit your changes with a clear and concise message explaining what you've done.
@@ -54,81 +47,48 @@ Go to the original repository and click the "New pull request" button. Select yo
 ### Review and merge
 Your pull request will be reviewed by the maintainers. They may suggest changes or ask for clarification. Once the review is complete, your changes will be merged into the main project.
 
-## Guidelines
+## Quality Standards
 
-### Keep it consistent
-- Follow the existing format and style of the `DRAFT-README.md` file
-- Use the same formatting, capitalization, and punctuation patterns
-- Maintain the table structure for community projects
-- Use dropdown format for official projects
+**Project Requirements:**
+- ✅ Active maintenance and LangChain/LangGraph usage
+- ✅ Accurate links and working GitHub badges
+- ✅ Clear, concise descriptions (under 200 chars)
+- ✅ Proper categorization and alphabetical order
+- ❌ No duplicates
 
-### Categorization
-- **Community Projects**: Place projects in the most appropriate category based on their primary use case
-- **Official Projects**: Organize under the correct subsection (Specialized Agent Libraries, Apps & Agents, or Development Tools)
-- If creating a new category, provide a clear description and maintain alphabetical order
+**Formatting:**
+- Use table format for community projects
+- Use dropdown format for official projects  
+- Follow existing style and capitalization
+- Include GitHub stars badge: `![GitHub stars](https://img.shields.io/github/stars/user/repo?style=social)`
 
-### Accurate information
-- Ensure all information is accurate and up-to-date
-- Double-check repository links and verify they work
-- Test that GitHub badges display correctly
-- Verify project descriptions accurately reflect the project's capabilities
+## What to Contribute
 
-### Quality standards
-- **Active projects**: Prefer projects that are actively maintained
-- **LangChain ecosystem**: Ensure projects genuinely use LangChain, LangGraph, or related technologies
-- **Clear descriptions**: Write concise and informative descriptions explaining what the project does and its key features
-- **Avoid duplicates**: Check that the project isn't already listed
+- **🆕 New projects** - LangChain/LangGraph applications and tools
+- **🔧 Fixes** - Broken links, outdated descriptions, categorization
+- **📝 Documentation** - Category descriptions, ecosystem overview
+- **🏗️ Structure** - New categories, better organization
 
-### Formatting requirements
-- **One project per table row**: List each project on a separate line for better readability
-- **Alphabetical order**: Maintain alphabetical order within each category (by repository name, not username)
-- **Consistent linking**: Use the full GitHub URL format for all repository links
-- **Badge consistency**: Use the social style for GitHub stars badges
+## Want to Help More?
 
-### Description writing tips
-- Start with what the project does (e.g., "AI-powered", "Multi-agent system for", "Automated tool for")
-- Mention key technologies used (LangGraph, LangChain, specific LLM providers)
-- Highlight unique features or capabilities
-- Keep descriptions under 200 characters when possible
-- Use active voice and clear, technical language
+### 🌍 Multi-Language Support TODO
+We're looking for help translating this awesome list into other languages:
+- **🇪🇸 Spanish** - `README.es.md`
+- **🇫🇷 French** - `README.fr.md`
+- **🇩🇪 German** - `README.de.md`
+- **🇵🇱 Polish** - `README.pl.md`
+- **🇯🇵 Japanese** - `README.ja.md`
+- **🇨🇳 Chinese** - `README.zh.md`
+- **🇰🇷 Korean** - `README.ko.md`
+- **🇷🇺 Russian** - `README.ru.md`
 
-### Categories and scope
-The repository covers projects in these main areas:
-- **Core Frameworks**: LangChain, LangGraph, LangSmith, LangGraph Platform
-- **Official Projects**: Projects maintained by the LangChain team
-- **Community Projects**: Third-party projects organized by domain/use case
-- **Integrations**: Third-party providers and tools that extend the ecosystem
+Interested in translating? Open an issue to claim a language!
 
-## Types of Contributions
+### 📝 Other Ways to Contribute
+- **📊 Add missing categories** - Suggest new domains we haven't covered
+- **🔍 Quality review** - Help verify links and project descriptions
+- **📈 Weekly updates** - Monitor new LangGraph/LangChain projects
 
-### Adding new projects
-- Community-built applications using LangChain/LangGraph
-- Official LangChain team projects and tools
-- Integration packages and provider libraries
 
-### Improving existing content
-- Updating project descriptions for clarity
-- Fixing broken links or badges
-- Correcting categorization
-- Adding missing projects
 
-### Documentation improvements
-- Enhancing category descriptions
-- Improving the ecosystem overview
-- Adding helpful tips or context
-- Fixing typos and grammar
-
-### Structural improvements
-- Suggesting new categories
-- Reorganizing content for better navigation
-- Improving the table of contents
-- Enhancing formatting
-
-## Questions or Issues?
-
-If you have questions about contributing or need help with the process, please:
-- Open an issue on GitHub
-- Check existing issues for similar questions
-- Review the existing content for examples
-
-Thank you for contributing to the Awesome LangGraph Ecosystem! 🦜🔗
+**Thank you for contributing!** 🦜🔗
