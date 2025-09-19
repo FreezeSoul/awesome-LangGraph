@@ -81,15 +81,15 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 
 ### Ecosystem Components:
 
-**🦜🔗 LangChain** - Provides integrations and composable components to streamline LLM application development. Contains agent abstractions built on top of LangGraph.
+**🔗 LangChain** - Provides integrations and composable components to streamline LLM application development. Contains agent abstractions built on top of LangGraph.
 
-**🦜🕸️ LangGraph** - The core framework for building stateful, multi-agent systems with complex workflows, collaboration, and memory management.
+**🕸️ LangGraph** - The core framework for building stateful, multi-agent systems with complex workflows, collaboration, and memory management.
 
-**🦜🛠️ LangSmith** - Helpful for agent evaluations and observability. Debug poor-performing LLM app runs, evaluate agent trajectories, gain visibility in production, and improve performance over time.
+**🛠️ LangSmith** - Helpful for agent evaluations and observability. Debug poor-performing LLM app runs, evaluate agent trajectories, gain visibility in production, and improve performance over time.
 
-**🦜🚀 LangGraph Platform** - Deploy and scale agents effortlessly with a purpose-built deployment platform for long running, stateful workflows. Discover, reuse, configure, and share agents across teams — and iterate quickly with visual prototyping in LangGraph Studio.
+**🚀 LangGraph Platform** - Deploy and scale agents effortlessly with a purpose-built deployment platform for long running, stateful workflows. Discover, reuse, configure, and share agents across teams — and iterate quickly with visual prototyping in LangGraph Studio.
 
-**🦜🤝 LangChain Integrations & Partners** - Third-party integrations and provider packages that extend LangChain's capabilities across the AI ecosystem. These integration packages provide standardized interfaces to work with popular AI services, databases, and tools.
+**🤝 LangChain Integrations & Partners** - Third-party integrations and provider packages that extend LangChain's capabilities across the AI ecosystem. These integration packages provide standardized interfaces to work with popular AI services, databases, and tools.
 
 
 
