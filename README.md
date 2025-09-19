@@ -1,4 +1,4 @@
-# 🦜🔗 Awesome LangGraph & LangChain Ecosystem ![Awesome](https://awesome.re/badge.svg) ![Last Updated](https://img.shields.io/github/last-commit/von-development/awesome-LangGraph)
+# 🦜🕸️ Awesome LangGraph & LangChain Ecosystem ![Awesome](https://awesome.re/badge.svg) ![Last Updated](https://img.shields.io/github/last-commit/von-development/awesome-LangGraph)
 
 > The definitive index of frameworks, templates, and real-world projects for building **stateful, tool-using AI agents** with the LangChain + LangGraph stack.
 
@@ -18,17 +18,17 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
 
 ## Table of Contents
 
-- [What is the LangChain/Graph Ecosystem](#-what-is-the-langchaingraph-ecosystem)
-- [LangChain](#-langchain)
-- [LangGraph](#️-langgraph)
-- [LangSmith](#️-langsmith)
-- [LangGraph Platform](#--langgraph-platform)
-- [LangChain Integrations & Partners](#-langchain-integrations--partners)
+- [🦜🌐 What is the LangChain/Graph Ecosystem](#-what-is-the-langchaingraph-ecosystem)
+- [🔗 LangChain](#-langchain-)
+- [🕸️ LangGraph](#-langgraph-)
+- [🛠️ LangSmith](#-langsmith-)
+- [🚀 LangGraph Platform](#-langgraph-platform-)
+- [🤝 LangChain Integrations & Partners](#-langchain-integrations--partners-)
 
-- [Official LangGraph Projects](#-official-langgraph-projects)
-  - [Specialized Agent Libraries](#-specialized-agent-libraries)
-  - [Apps & Agents](#-apps--agents)
-  - [Development Tools](#-development-tools)
+- [🟢 Official LangGraph Projects](#-official-langgraph-projects-)
+  - [🤖 Specialized Agent Libraries](#-specialized-agent-libraries-)
+  - [📱 Apps & Agents](#-apps--agents-)
+  - [🛠️ Development Tools](#development-tools)
 
 - [🌟 Community Projects](#-community-projects)
   - [🧬 Bio & Health](#-bio--health)
@@ -51,11 +51,11 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [📋 Templates & Starters](#-templates--starters)
   - [🏢 Workplace & Productivity](#-workplace--productivity)
 
-- [Learning Resources](#-learning-resources)
-- [Additional Resources](#-additional-resources)
-- [Communities](#-communities)
-- [Contributing](#-contributing)
-- [Acknowledgments](#-acknowledgments)
+- [📚 Learning Resources](#-learning-resources)
+- [📖 Additional Resources](#-additional-resources)
+- [👥 Communities](#-communities)
+- [🤝 Contributing](#-contributing)
+- [🙏 Acknowledgments](#-acknowledgments)
 
 
 
@@ -81,15 +81,15 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 
 ### Ecosystem Components:
 
-**⚪🦜 LangChain** - Provides integrations and composable components to streamline LLM application development. Contains agent abstractions built on top of LangGraph.
+**🦜🔗 LangChain** - Provides integrations and composable components to streamline LLM application development. Contains agent abstractions built on top of LangGraph.
 
-**⚪🕸️ LangGraph** - The core framework for building stateful, multi-agent systems with complex workflows, collaboration, and memory management.
+**🦜🕸️ LangGraph** - The core framework for building stateful, multi-agent systems with complex workflows, collaboration, and memory management.
 
-**🔵🛠️ LangSmith** - Helpful for agent evaluations and observability. Debug poor-performing LLM app runs, evaluate agent trajectories, gain visibility in production, and improve performance over time.
+**🦜🛠️ LangSmith** - Helpful for agent evaluations and observability. Debug poor-performing LLM app runs, evaluate agent trajectories, gain visibility in production, and improve performance over time.
 
-**🔴🚀 LangGraph Platform** - Deploy and scale agents effortlessly with a purpose-built deployment platform for long running, stateful workflows. Discover, reuse, configure, and share agents across teams — and iterate quickly with visual prototyping in LangGraph Studio.
+**🦜🚀 LangGraph Platform** - Deploy and scale agents effortlessly with a purpose-built deployment platform for long running, stateful workflows. Discover, reuse, configure, and share agents across teams — and iterate quickly with visual prototyping in LangGraph Studio.
 
-**🟠🤝 LangChain Integrations & Partners** - Third-party integrations and provider packages that extend LangChain's capabilities across the AI ecosystem. These integration packages provide standardized interfaces to work with popular AI services, databases, and tools.
+**🦜🤝 LangChain Integrations & Partners** - Third-party integrations and provider packages that extend LangChain's capabilities across the AI ecosystem. These integration packages provide standardized interfaces to work with popular AI services, databases, and tools.
 
 
 
@@ -102,7 +102,7 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 
 <div align="center">
 
-## ⚪🦜 LangChain
+## 🦜 LangChain 🔗
 
 </div> 
 
@@ -203,7 +203,7 @@ Access the official LangChain documentation across different versions and langua
 
 <div align="center">
 
-## ⚪🕸️ LangGraph
+## 🦜 LangGraph 🕸️
 
 </div> 
 
@@ -300,7 +300,7 @@ Access the official LangGraph documentation across different languages:
 
 <div align="center">
 
-## 🔵🛠️ LangSmith
+## 🦜 LangSmith 🛠️
 
 </div>
 
@@ -354,9 +354,10 @@ Access the official LangSmith platform documentation:
 
 
 ---
+
 <div align="center">
 
-##  🔴🚀 LangGraph Platform
+## 🦜 LangGraph Platform 🚀
 
 </div>
 
@@ -489,7 +490,7 @@ Access the official LangSmith platform documentation:
 
 <div align="center">
 
-## 🟠🤝 LangChain Integrations & Partners
+## 🦜 LangChain Integrations & Partners 🤝
 
 </div>
 
@@ -587,7 +588,7 @@ Access the official LangSmith platform documentation:
 
 <div align="center">
 
-## 🟢🦜 Official LangGraph Projects
+## 🟢 Official LangGraph Projects 🦜
 
 </div>
 
@@ -595,7 +596,7 @@ Access the official LangSmith platform documentation:
 
 <div align="center">
 
-### 🟩🤖 Specialized Agent Libraries
+### 🟩 Specialized Agent Libraries 🤖
 
 </div>
 
@@ -746,7 +747,7 @@ Access the official LangSmith platform documentation:
 
 <div align="center">
 
-### 🟩📱 Apps & Agents
+### 🟩 Apps & Agents 📱
 
 </div>
 
@@ -963,7 +964,7 @@ Access the official LangSmith platform documentation:
 
 <div align="center">
 
-### 🟩🛠️ Development Tools
+### 🟩 Development Tools 🛠️
 
 </div>
 
