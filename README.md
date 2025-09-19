@@ -30,32 +30,32 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [Apps & Agents](#-apps--agents)
   - [Development Tools](#-development-tools)
 
-- [Community Projects](#-community-projects)
-  - [Bio & Health](#-bio--health)
-  - [Web Automation & Scraping](#-web-automation--scraping)
-  - [Business Intelligence & Market Research](#-business-intelligence--market-research)
-  - [Chat Interfaces & GUIs](#️-chat-interfaces--guis)
-  - [Cloud & DevOps](#️-cloud--devops)
-  - [Coding/Dev Agents](#-codingdev-agents)
-  - [Customer Ops](#️-customer-ops)
-  - [Data Platforms](#-data-platforms)
-  - [Data Science](#-data-science)
-  - [Developer Tools](#️-developer-tools)
-  - [Finance & Fintech](#-finance--fintech)
-  - [Marketing](#-marketing)
-  - [Media & Podcasts](#-media--podcasts)
-  - [Robotics & Embodied AI](#-robotics--embodied-ai)
-  - [RAG & Document Processing](#-rag--document-processing)
-  - [Research Agents](#-research-agents)
-  - [Sustainability](#-sustainability)
-  - [Templates & Starters](#-templates--starters)
-  - [Workplace & Productivity](#-workplace--productivity)
+- [🌟 Community Projects](#-community-projects)
+  - [🧬 Bio & Health](#-bio--health)
+  - [🌐 Web Automation & Scraping](#-web-automation--scraping)
+  - [📊 Business Intelligence & Market Research](#-business-intelligence--market-research)
+  - [🖥️ Chat Interfaces & GUIs](#️-chat-interfaces--guis)
+  - [☁️ Cloud & DevOps](#️-cloud--devops)
+  - [🤖 Coding/Dev Agents](#-codingdev-agents)
+  - [🛎️ Customer Ops](#️-customer-ops)
+  - [📊 Data Platforms](#-data-platforms)
+  - [🧮 Data Science](#-data-science)
+  - [🛠️ Developer Tools](#️-developer-tools)
+  - [💰 Finance & Fintech](#-finance--fintech)
+  - [🎯 Marketing](#-marketing)
+  - [🎥 Media & Podcasts](#-media--podcasts)
+  - [🤖 Robotics & Embodied AI](#-robotics--embodied-ai)
+  - [📚 RAG & Document Processing](#-rag--document-processing)
+  - [🔬 Research Agents](#-research-agents)
+  - [🌍 Sustainability](#-sustainability)
+  - [📋 Templates & Starters](#-templates--starters)
+  - [🏢 Workplace & Productivity](#-workplace--productivity)
 
 - [Learning Resources](#-learning-resources)
-- [Additional Resources](#additional-resources)
-- [Communities](#communities)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
+- [Additional Resources](#-additional-resources)
+- [Communities](#-communities)
+- [Contributing](#-contributing)
+- [Acknowledgments](#-acknowledgments)
 
 
 
@@ -1257,9 +1257,12 @@ Access the official LangSmith platform documentation:
 
 
 
-
+<div align="center">
 
 ## 🌍 Sustainability
+
+</div>
+
 *Environmental impact, green technology, and sustainability analysis*
 
 | Project | Description | GitHub Stars |
@@ -1322,7 +1325,7 @@ Access the official LangSmith platform documentation:
 
 <div align="center">
 
-## Additional Resources
+## 📖 Additional Resources
 
 </div>
 
@@ -1350,9 +1353,11 @@ Access the official LangSmith platform documentation:
 | [Athena Intelligence — Research & Summarization](https://blog.langchain.dev/customers-athena-intelligence/) | Case Study | Research and summarization workflows in production. |
 | [Captide — Agentic Equity Research](https://blog.langchain.dev/how-captide-is-redefining-equity-research-with-agentic-workflows-built-on-langgraph-and-langsmith/) | Case Study | Equity research using LangGraph + LangSmith agentic workflows. |
 
+---
+
 <div align="center">
 
-## Communities
+## 👥 Communities
 
 </div>
 
@@ -1362,7 +1367,9 @@ Access the official LangSmith platform documentation:
 
 <div align="center">
 
-## Contributing
+---
+
+## 🤝 Contributing
 
 </div>
 
@@ -1374,8 +1381,9 @@ We welcome additions and fixes! Please read the **[Contributing Guide](CONTRIBUT
 
 <div align="center">
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 </div>
 
 Special thanks to the [@langchain-ai](https://github.com/langchain-ai) team for building an outstanding framework and ecosystem that enables developers to create powerful AI applications.
+
