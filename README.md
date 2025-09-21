@@ -1014,6 +1014,7 @@ Access the official LangSmith platform documentation:
 ## 🧬 Bio & Health
 
 </div>
+
 *Healthcare, medical diagnosis, genomic research, and scientific research agents*
 
 | Project | Description | GitHub Stars |
@@ -1157,6 +1158,7 @@ Access the official LangSmith platform documentation:
 | [teddynote-lab/langgraph-mcp-agents](https://github.com/teddynote-lab/langgraph-mcp-agents) | MCP integration toolkit for LangGraph agents | ![GitHub stars](https://img.shields.io/github/stars/teddynote-lab/langgraph-mcp-agents?style=social) |
 | [cryxnet/deepmcpagent](https://github.com/cryxnet/deepmcpagent) | MCP-first agent framework (LangChain/LangGraph) over HTTP/SSE | ![GitHub stars](https://img.shields.io/github/stars/cryxnet/deepmcpagent?style=social) |
 | [Azzedde/brainstormers](https://github.com/Azzedde/brainstormers) | Curated chains for structured brainstorming | ![GitHub stars](https://img.shields.io/github/stars/Azzedde/brainstormers?style=social) |
+| [zamalali/langchain-code](https://github.com/zamalali/langchain-code) | Multi-LLM CLI tool with ReAct & Deep modes for code analysis, feature implementation, and bug fixing | ![GitHub stars](https://img.shields.io/github/stars/zamalali/langchain-code?style=social) |
 
 <div align="center">
 
