@@ -1035,6 +1035,7 @@ Access the official LangSmith platform documentation:
 | [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) | Autonomous agent for automating web tasks and research | ![GitHub stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=social) |
 | [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) | Web automation agent with behavioral caching, DOM fidelity, and success pattern recording | ![GitHub stars](https://img.shields.io/github/stars/esinecan/agentic-ai-browser?style=social) |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Library for AI agents to control websites and automate tasks | ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social) |
+| [stanford-mast/blast](https://github.com/stanford-mast/blast) | High-performance serving engine for browser-augmented LLM applications with auto-scaling and OpenAI-compatible API | ![GitHub stars](https://img.shields.io/github/stars/stanford-mast/blast?style=social) |
 | [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) | Visual editor for building scraping workflows with LangGraph, bulk scraping, and live streaming | ![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/scrapecraft?style=social) |
 | [nickhawn/news-agent](https://github.com/nickhawn/news-agent) | News crawler that personalizes daily summaries with Tavily and memory | ![GitHub stars](https://img.shields.io/github/stars/nickhawn/news-agent?style=social) |
 
