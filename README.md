@@ -1298,6 +1298,7 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
+| [ashumishra2104/AI_Travel_agent_Streamlit](https://github.com/ashumishra2104/AI_Travel_agent_Streamlit) | Streamlit-based AI travel agent with weather, search, currency conversion, and YouTube integration tools | ![GitHub stars](https://img.shields.io/github/stars/ashumishra2104/AI_Travel_agent_Streamlit?style=social) |
 | [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer) | Desktop task agent focused on safe execution | ![GitHub stars](https://img.shields.io/github/stars/Clevrr-AI/Clevrr-Computer?style=social) |
 | [tavily-ai/meeting-prep-agent](https://github.com/tavily-ai/meeting-prep-agent) | Meeting prep with calendars, search, and profile research | ![GitHub stars](https://img.shields.io/github/stars/tavily-ai/meeting-prep-agent?style=social) |
 | [zamalali/InboxHero](https://github.com/zamalali/InboxHero) | Email triage with attachment reading and reply drafting | ![GitHub stars](https://img.shields.io/github/stars/zamalali/InboxHero?style=social) |
