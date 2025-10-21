@@ -1245,6 +1245,7 @@ Access the official LangSmith platform documentation:
 | Project | Description | GitHub Stars |
 |---|---|---|
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Deep research framework with search/crawl/Python tools | ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social) |
+| [duartecaldascardoso/article-explainer](https://github.com/duartecaldascardoso/article-explainer) | Multi-agent system for understanding research articles with AI-powered explanations and Swarm architecture | ![GitHub stars](https://img.shields.io/github/stars/duartecaldascardoso/article-explainer?style=social) |
 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Research agent integrating personal KBs and external sources | ![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social) |
 | [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher) | Deep search agent with BAML, multi-provider scraping, async flows | ![GitHub stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-researcher?style=social) |
 | [pogjester/company-research-agent](https://github.com/pogjester/company-research-agent) | Company research pipeline with streaming and filtering | ![GitHub stars](https://img.shields.io/github/stars/pogjester/company-research-agent?style=social) |
