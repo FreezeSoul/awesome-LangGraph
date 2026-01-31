@@ -18,44 +18,53 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
 
 ## Table of Contents
 
-- [🦜🌐 What is the LangChain/Graph Ecosystem](#-what-is-the-langchaingraph-ecosystem)
-- [🔗 LangChain](#-langchain-)
-- [🕸️ LangGraph](#-langgraph-)
-- [🛠️ LangSmith](#-langsmith-)
-- [🚀 LangGraph Platform](#-langgraph-platform-)
-- [🤝 LangChain Integrations & Partners](#-langchain-integrations--partners-)
-
-- [🟢 Official LangGraph Projects](#-official-langgraph-projects-)
-  - [🤖 Specialized Agent Libraries](#-specialized-agent-libraries-)
-  - [📱 Apps & Agents](#-apps--agents-)
-  - [🛠️ Development Tools](#development-tools)
-
+- [🦜🕸️ Awesome LangGraph \& LangChain Ecosystem  ](#️-awesome-langgraph--langchain-ecosystem--)
+  - [Table of Contents](#table-of-contents)
+  - [🌐 What is the LangChain/Graph Ecosystem](#-what-is-the-langchaingraph-ecosystem)
+    - [Ecosystem Components:](#ecosystem-components)
+  - [🦜 LangChain 🔗](#-langchain-)
+    - [Core Components](#core-components)
+    - [Advanced Usage](#advanced-usage)
+    - [Available Files](#available-files)
+    - [Format Differences](#format-differences)
+  - [🦜 LangGraph 🕸️](#-langgraph-️)
+    - [Available Files](#available-files-1)
+    - [Format Differences](#format-differences-1)
+    - [Usage with IDEs](#usage-with-ides)
+  - [🦜 LangSmith 🛠️](#-langsmith-️)
+  - [🦜 LangGraph Platform 🚀](#-langgraph-platform-)
+  - [🦜 LangChain Integrations \& Partners 🤝](#-langchain-integrations--partners-)
+  - [🟢 Official LangGraph Projects 🦜](#-official-langgraph-projects-)
+    - [🟩 Specialized Agent Libraries 🤖](#-specialized-agent-libraries-)
+    - [🟩 Apps \& Agents 📱](#-apps--agents-)
+    - [🟩 Development Tools 🛠️](#-development-tools-️)
 - [🌟 Community Projects](#-community-projects)
-  - [🧬 Bio & Health](#-bio--health)
-  - [🌐 Web Automation & Scraping](#-web-automation--scraping)
-  - [📊 Business Intelligence & Market Research](#-business-intelligence--market-research)
-  - [🖥️ Chat Interfaces & GUIs](#️-chat-interfaces--guis)
-  - [☁️ Cloud & DevOps](#️-cloud--devops)
+  - [🧬 Bio \& Health](#-bio--health)
+  - [🌐 Web Automation \& Scraping](#-web-automation--scraping)
+  - [📊 Business Intelligence \& Market Research](#-business-intelligence--market-research)
+  - [🖥️ Chat Interfaces \& GUIs](#️-chat-interfaces--guis)
+  - [☁️ Cloud \& DevOps](#️-cloud--devops)
   - [🤖 Coding/Dev Agents](#-codingdev-agents)
   - [🛎️ Customer Ops](#️-customer-ops)
   - [📊 Data Platforms](#-data-platforms)
   - [🧮 Data Science](#-data-science)
   - [🛠️ Developer Tools](#️-developer-tools)
-  - [💰 Finance & Fintech](#-finance--fintech)
+  - [💰 Finance \& Fintech](#-finance--fintech)
   - [🎯 Marketing](#-marketing)
-  - [🎥 Media & Podcasts](#-media--podcasts)
-  - [🤖 Robotics & Embodied AI](#-robotics--embodied-ai)
-  - [📚 RAG & Document Processing](#-rag--document-processing)
+  - [🎥 Media \& Podcasts](#-media--podcasts)
+  - [🤖 Robotics \& Embodied AI](#-robotics--embodied-ai)
+  - [📚 RAG \& Document Processing](#-rag--document-processing)
   - [🔬 Research Agents](#-research-agents)
   - [🌍 Sustainability](#-sustainability)
-  - [📋 Templates & Starters](#-templates--starters)
-  - [🏢 Workplace & Productivity](#-workplace--productivity)
-
-- [📚 Learning Resources](#-learning-resources)
-- [📖 Additional Resources](#-additional-resources)
-- [👥 Communities](#-communities)
-- [🤝 Contributing](#-contributing)
-- [🙏 Acknowledgments](#-acknowledgments)
+  - [📋 Templates \& Starters](#-templates--starters)
+  - [🏢 Workplace \& Productivity](#-workplace--productivity)
+  - [📚 Learning Resources](#-learning-resources)
+    - [Official — LangGraph Academy](#official--langgraph-academy)
+    - [Community Courses](#community-courses)
+  - [📖 Additional Resources](#-additional-resources)
+  - [👥 Communities](#-communities)
+  - [🤝 Contributing](#-contributing)
+  - [🙏 Acknowledgments](#-acknowledgments)
 
 
 
@@ -1288,6 +1297,7 @@ Access the official LangSmith platform documentation:
 | Project | Description | GitHub Stars |
 |---|---|---|
 | [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) | FastAPI template for LangGraph agents (logging, persistence, security) | ![GitHub stars](https://img.shields.io/github/stars/wassim249/fastapi-langgraph-agent-production-ready-template?style=social) |
+| [gtesei/agentic_design_patterns](https://github.com/gtesei/agentic_design_patterns) | A comprehensive, hands-on collection of design patterns for building robust agentic AI systems using LangChain and LangGraph | ![GitHub stars](https://img.shields.io/github/stars/gtesei/agentic_design_patterns?style=social) |
 | [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template) | FastAPI template with LangGraph + MCP and streaming UX | ![GitHub stars](https://img.shields.io/github/stars/NicholasGoh/fastapi-mcp-langgraph-template?style=social) |
 | [lgesuellip/langgraph-whatsapp-agent](https://github.com/lgesuellip/langgraph-whatsapp-agent) | Template for WhatsApp agents with LangGraph and MCP | ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/langgraph-whatsapp-agent?style=social) |
 
