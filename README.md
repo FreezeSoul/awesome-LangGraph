@@ -1144,6 +1144,7 @@ Access the official LangSmith platform documentation:
 | Project | Description | GitHub Stars |
 |---------|-------------|--------------|
 | [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | AI-powered data science team for common tasks | ![GitHub stars](https://img.shields.io/github/stars/business-science/ai-data-science-team?style=social) |
+| [leockl/sklearn-diagnose](https://github.com/leockl/sklearn-diagnose) | AI-powered diagnostic tool for analyzing and debugging scikit-learn machine learning models | ![GitHub stars](https://img.shields.io/github/stars/leockl/sklearn-diagnose?style=social) |
 | [RichardKaranuMbuti/ScienceBridge](https://github.com/RichardKaranuMbuti/ScienceBridge) | Scientific research accelerator that analyzes datasets, generates hypotheses, and validates them through code | ![GitHub stars](https://img.shields.io/github/stars/RichardKaranuMbuti/ScienceBridge?style=social) |
 
 
