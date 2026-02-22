@@ -1299,6 +1299,7 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
+| [emanueleielo/deepagents-open-lovable](https://github.com/emanueleielo/deepagents-open-lovable) | Open-source Deep Agents implementation with Lovable platform integration for complex planning and execution workflows | ![GitHub stars](https://img.shields.io/github/stars/emanueleielo/deepagents-open-lovable?style=social) |
 | [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) | FastAPI template for LangGraph agents (logging, persistence, security) | ![GitHub stars](https://img.shields.io/github/stars/wassim249/fastapi-langgraph-agent-production-ready-template?style=social) |
 | [gtesei/agentic_design_patterns](https://github.com/gtesei/agentic_design_patterns) | A comprehensive, hands-on collection of design patterns for building robust agentic AI systems using LangChain and LangGraph | ![GitHub stars](https://img.shields.io/github/stars/gtesei/agentic_design_patterns?style=social) |
 | [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template) | FastAPI template with LangGraph + MCP and streaming UX | ![GitHub stars](https://img.shields.io/github/stars/NicholasGoh/fastapi-mcp-langgraph-template?style=social) |
