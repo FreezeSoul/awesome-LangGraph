@@ -4,7 +4,9 @@
   "version": "0.1.0",
   "description": "Lightweight maintenance tooling for awesome-LangGraph",
   "scripts": {
-    "check:outdated-projects": "node scripts/check-outdated-projects.mjs"
+    "check:repo-checks": "node scripts/repo-checks.mjs",
+    "lint:awesome": "npx awesome-lint README.md",
+    "lint:md": "npx markdownlint-cli README.md CONTRIBUTING.md"
   },
   "engines": {
     "node": ">=20"

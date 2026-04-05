@@ -1,4 +1,4 @@
-name: Check Outdated Projects
+name: Repo Checks
 
 on:
   schedule:
@@ -7,12 +7,12 @@ on:
   pull_request:
     paths:
       - 'README.md'
-      - 'scripts/check-outdated-projects.mjs'
-      - '.github/workflows/check-outdated-projects.yml'
+      - 'scripts/repo-checks.mjs'
+      - '.github/workflows/repo-checks.yml'
       - 'package.json'
 
 jobs:
-  check-outdated-projects:
+  repo-checks:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -25,9 +25,9 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Check outdated community projects
+      - name: Run repo checks
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_AGE_MONTHS: '13'
+          MAX_AGE_MONTHS: '15'
           FAIL_ON_FINDINGS: 'true'
-        run: npm run check:outdated-projects
+        run: npm run check:repo-checks
