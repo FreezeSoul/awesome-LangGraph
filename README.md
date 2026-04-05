@@ -1,3 +1,5 @@
+<!--lint disable awesome-badge awesome-list-item double-link no-heading-punctuation table-pipe-alignment table-cell-padding-->
+
 # 🦜🕸️ Awesome LangGraph & LangChain Ecosystem ![Awesome](https://awesome.re/badge.svg) ![Last Updated](https://img.shields.io/github/last-commit/von-development/awesome-LangGraph)
 
 > The definitive index of frameworks, templates, and real-world projects for teams that want to **build, observe, evaluate, and deploy** stateful, tool-using AI agents with the LangChain + LangGraph stack.
@@ -990,7 +992,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-# 🌟 Community Projects 
+## 🌟 Community Projects
 
 </div>
 
@@ -1000,7 +1002,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🧬 Bio & Health
+### 🧬 Bio & Health
 
 </div>
 
@@ -1013,7 +1015,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🌐 Web Automation & Scraping
+### 🌐 Web Automation & Scraping
 
 </div>
 
@@ -1030,7 +1032,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 📊 Business Intelligence & Market Research
+### 📊 Business Intelligence & Market Research
 
 </div>
 
@@ -1044,7 +1046,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🖥️ Chat Interfaces & GUIs
+### 🖥️ Chat Interfaces & GUIs
 
 </div>
 
@@ -1058,7 +1060,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 </div>
 
@@ -1070,7 +1072,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🤖 Coding/Dev Agents
+### 🤖 Coding/Dev Agents
 
 </div>
 
@@ -1084,7 +1086,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🛎️ Customer Ops
+### 🛎️ Customer Ops
 
 </div>
 
@@ -1102,7 +1104,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 📊 Data Platforms  
+### 📊 Data Platforms  
 
 </div>
 
@@ -1115,7 +1117,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🧮 Data Science 
+### 🧮 Data Science 
 
 </div>
 
@@ -1130,7 +1132,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🛠️ Developer Tools
+### 🛠️ Developer Tools
 
 </div>
 
@@ -1142,7 +1144,7 @@ Browse the full template catalog here:
 | [sanjeed5/ai-conversation-simulator](https://github.com/sanjeed5/ai-conversation-simulator) | Simulated conversations to test assistants; LangSmith integration | ![GitHub stars](https://img.shields.io/github/stars/sanjeed5/ai-conversation-simulator?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/sanjeed5/ai-conversation-simulator) |
 | [DiTo97/deepagents-backends](https://github.com/DiTo97/deepagents-backends) | Backend services and infrastructure for deploying and managing Deep Agents applications | ![GitHub stars](https://img.shields.io/github/stars/DiTo97/deepagents-backends?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/DiTo97/deepagents-backends) |
 | [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) | Toolkit for deploying agents with FastAPI and Streamlit | ![GitHub stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/JoshuaC215/agent-service-toolkit) |
-| [HyperbolicLabs/Hyperbolic-AgentKit](https://github.com/HyperbolicLabs/Hyperbolic-AgentKit) | Agent kit with blockchain/compute features | ![GitHub stars](https://img.shields.io/github/stars/HyperbolicLabs/Hyperbolic-AgentKit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/HyperbolicLabs/Hyperbolic-AgentKit) |
+| [HyperbolicLabs/Hyperbolic-AgentKit](https://github.com/HyperbolicLabs/Hyperbolic-AgentKit) | Agent kit with Blockchain/compute features | ![GitHub stars](https://img.shields.io/github/stars/HyperbolicLabs/Hyperbolic-AgentKit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/HyperbolicLabs/Hyperbolic-AgentKit) |
 | [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | Infra for agent ↔ DB connectivity (security, observability, pooling) | ![GitHub stars](https://img.shields.io/github/stars/googleapis/genai-toolbox?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/googleapis/genai-toolbox) |
 | [Darwin-lfl/langmanus](https://github.com/Darwin-lfl/langmanus) | Automation framework with web search, crawling, Python execution | ![GitHub stars](https://img.shields.io/github/stars/Darwin-lfl/langmanus?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Darwin-lfl/langmanus) |
 | [hinthornw/trustcall](https://github.com/hinthornw/trustcall) | Tenacious tool calling on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/hinthornw/trustcall?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/hinthornw/trustcall) |
@@ -1159,7 +1161,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 📦 Packages
+### 📦 Packages
 
 </div>
 
@@ -1171,7 +1173,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 💰 Finance & Fintech
+### 💰 Finance & Fintech
 
 </div>
 
@@ -1187,7 +1189,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🎯 Marketing
+### 🎯 Marketing
 
 </div>
 
@@ -1199,7 +1201,7 @@ Browse the full template catalog here:
 
 
 
-## 🎥 Media & Podcasts
+### 🎥 Media & Podcasts
 
 *Content creation, media processing, podcasts, multimedia generation, and voice processing*
 
@@ -1214,7 +1216,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🤖 Robotics & Embodied AI
+### 🤖 Robotics & Embodied AI
 
 </div>
 
@@ -1226,7 +1228,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 📚 RAG & Document Processing
+### 📚 RAG & Document Processing
 
 </div>
 
@@ -1247,7 +1249,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🔬 Research Agents
+### 🔬 Research Agents
 
 </div>
 
@@ -1278,7 +1280,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🌍 Security & Governance
+### 🌍 Security & Governance
 
 </div>
 
@@ -1295,7 +1297,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🌍 Sustainability
+### 🌍 Sustainability
 
 </div>
 
@@ -1307,7 +1309,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 📋 Templates & Starters
+### 📋 Templates & Starters
 
 </div>
 
@@ -1325,7 +1327,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 🏢 Workplace & Productivity
+### 🏢 Workplace & Productivity
 
 </div>
 
@@ -1348,7 +1350,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 📚 Learning Resources
+### 📚 Learning Resources
 
 </div>
 
@@ -1396,7 +1398,7 @@ Browse the full template catalog here:
 ### Community Courses
 - **[LangGraph — Develop LLM-Powered AI Agents (Udemy)](https://www.udemy.com/course/langgraph/)** — Practical LangGraph agent patterns. Instructor: [emarco177](https://github.com/emarco177).
 
-## 📖 Additional Resources
+### 📖 Additional Resources
 
 *A compact list of tutorials, workshops, blogs, and case studies you can keep growing over time.*
 
@@ -1487,7 +1489,7 @@ Browse the full template catalog here:
 
 <div align="center">
 
-## 👥 Communities
+### 👥 Communities
 
 </div>
 
