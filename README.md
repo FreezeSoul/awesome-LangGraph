@@ -60,8 +60,6 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [🙏 Acknowledgments](#-acknowledgments)
 
 
-
-
 <div align="center">
 
 ---
@@ -96,7 +94,6 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 **🤝 LangChain Integrations & Partners** - Third-party integrations and provider packages that extend LangChain's capabilities across the AI ecosystem. These integration packages provide standardized interfaces to work with popular AI services, databases, and tools.
 
 
-
 ---
 
 <div align="center">
@@ -107,7 +104,6 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 
 
 **LangChain** is the foundational framework for building applications with Large Language Models (LLMs). It provides standardized interfaces, reusable components, and extensive integrations that enable developers to create sophisticated AI applications through composable building blocks.
-
 
 
 <details>
@@ -223,7 +219,6 @@ Access the official LangChain documentation across the current unified docs expe
 </details>
 
 
-
 <details>
 <summary><strong> ▫️ LangGraph Libraries and SDKs ▫️</strong></summary>
 
@@ -258,7 +253,6 @@ Access the official LangGraph documentation across the current unified open sour
 | **Unified LangChain Docs** | [docs.langchain.com/llms.txt](https://docs.langchain.com/llms.txt) | N/A |
 
 </details>
-
 
 
 <n></n>
@@ -323,7 +317,6 @@ Access the official Deep Agents documentation across the current unified open so
 </details>
 
 
-
 <n></n>
 
 ---
@@ -335,8 +328,6 @@ Access the official Deep Agents documentation across the current unified open so
 </div>
 
 **LangSmith** is a framework-agnostic platform for building, debugging, evaluating, and deploying AI agents and LLM applications. It works with or without LangChain's open-source frameworks and brings observability, prompt engineering, deployment, and operational tooling into one workflow.
-
-
 
 
 <details>
@@ -663,33 +654,6 @@ Browse the full template catalog here:
 
 </details>
 
-<details>
-<summary>▪️ <strong>CodeAct</strong> - Advanced code generation and execution ▪️</summary>
-
-**Secure code generation and execution agent.** Provides advanced function calling, code analysis, and debugging capabilities in controlled environments for safe programming assistance.
-
-| | |
-|---|---|
-| **Python** | [`langgraph-codeact`](https://github.com/langchain-ai/langgraph-codeact) |
-| **TypeScript** | -- |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-codeact?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langgraph-codeact) |
-
-</details>
-
-<details>
-<summary>▪️ <strong>Reflection</strong> - Self-improving agents with review capabilities ▪️</summary>
-
-**Self-improving agent system with iterative feedback loops.** Enables self-critique, iterative improvement, and quality control through reflection and continuous learning mechanisms.
-
-| | |
-|---|---|
-| **Python** | [`langgraph-reflection`](https://github.com/langchain-ai/langgraph-reflection) |
-| **TypeScript** | -- |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-reflection?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langgraph-reflection) |
-
-</details>
 
 <details>
 <summary>▪️ <strong>BigTool</strong> - Handle large-scale tool ecosystems ▪️</summary>
@@ -744,18 +708,6 @@ Browse the full template catalog here:
 
 *Complete application examples showcasing different patterns and use cases:*
 
-<details>
-<summary>▪️ <strong>Open Agent Platform</strong> - No-code platform for building customizable agents ▪️</summary>
-
-**No-code platform for building customizable agents with MCP tools integration.** Features LangConnect RAG support, multi-agent supervision capabilities, modern web interface, and pre-built agent templates for rapid development.
-
-| | |
-|---|---|
-| **Repository** | [`open-agent-platform`](https://github.com/langchain-ai/open-agent-platform) |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open-agent-platform?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/open-agent-platform) |
-
-</details>
 
 <details>
 <summary>▪️ <strong>LangConnect</strong> - Managed RAG service with FastAPI integration ▪️</summary>
@@ -782,31 +734,7 @@ Browse the full template catalog here:
 | **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/chat-langchain) |
 
 </details>
-<details>
-<summary>▪️ <strong>OpenGPTs</strong> - Open-source GPT alternative with 60+ LLM providers ▪️</summary>
 
-**Open-source GPT alternative supporting 60+ LLM providers and tools.** Implements three cognitive architectures (Assistant, RAG, Chatbot) with PostgreSQL backend and flexible deployment options.
-
-| | |
-|---|---|
-| **Repository** | [`opengpts`](https://github.com/langchain-ai/opengpts) |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/opengpts?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/opengpts) |
-
-</details>
-
-<details>
-<summary>▪️ <strong>Executive AI Assistant</strong> - Smart email management with calendar integration ▪️</summary>
-
-**Smart email management system with calendar integration.** Provides intelligent triage, automated response drafting, and meeting coordination through Gmail API with customizable workflows.
-
-| | |
-|---|---|
-| **Repository** | [`executive-ai-assistant`](https://github.com/langchain-ai/executive-ai-assistant) |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/executive-ai-assistant?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/executive-ai-assistant) |
-
-</details>
 
 <details>
 <summary>▪️ <strong>Agent Inbox</strong> - Centralized interface for AI agent interactions ▪️</summary>
@@ -834,18 +762,6 @@ Browse the full template catalog here:
 
 </details>
 
-<details>
-<summary>▪️ <strong>LangGraph UI Examples</strong> - Generative UI agents showcase ▪️</summary>
-
-**Showcase of generative UI agents including stockbroker, trip planner, and email tools.** Demonstrates human-in-the-loop workflows with customizable components and tool integrations.
-
-| | |
-|---|---|
-| **Repository** | [`langgraphjs-gen-ui-examples`](https://github.com/langchain-ai/langgraphjs-gen-ui-examples) |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs-gen-ui-examples?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langgraphjs-gen-ui-examples) |
-
-</details>
 
 <details>
 <summary>▪️ <strong>LangChain Next.js</strong> - Next.js starter template for LangChain.js ▪️</summary>
@@ -860,18 +776,6 @@ Browse the full template catalog here:
 
 </details>
 
-<details>
-<summary>▪️ <strong>Custom Auth</strong> - Supabase-powered authentication template ▪️</summary>
-
-**Supabase-powered authentication template for LangGraph deployments.** Implements OAuth2 with Google, user management, and secure chatbot access with conversation thread isolation.
-
-| | |
-|---|---|
-| **Repository** | [`custom-auth`](https://github.com/langchain-ai/custom-auth) |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/custom-auth?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/custom-auth) |
-
-</details>
 
 <details>
 <summary>▪️ <strong>Multi-Modal Researcher</strong> - Research and podcast generation workflow ▪️</summary>
@@ -912,31 +816,6 @@ Browse the full template catalog here:
 
 </details>
 
-<details>
-<summary>▪️ <strong>Robo Blogger</strong> - Voice-to-content pipeline for structured blog posts ▪️</summary>
-
-**Voice-to-content pipeline for converting spoken ideas into structured blog posts.** Features intelligent content organization, automated formatting, and seamless voice-to-text processing for content creation workflows.
-
-| | |
-|---|---|
-| **Repository** | [`robo-blogger`](https://github.com/langchain-ai/robo-blogger) |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/robo-blogger?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/robo-blogger) |
-
-</details>
-
-<details>
-<summary>▪️ <strong>Reply gAI</strong> - AI clone for X/Twitter profiles with memory ▪️</summary>
-
-**AI clone for X/Twitter profiles with long-term memory and RAG capabilities.** Creates personalized social media interactions by learning from profile history and maintaining context across conversations.
-
-| | |
-|---|---|
-| **Repository** | [`reply_gAI`](https://github.com/langchain-ai/reply_gAI) |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/reply_gAI?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/reply_gAI) |
-
-</details>
 
 <details>
 <summary>▪️ <strong>Social Media Agent</strong> - Generates social media posts from URLs ▪️</summary>
@@ -952,7 +831,6 @@ Browse the full template catalog here:
 </details>
 
 
-
 <div align="center">
 
 ### 🟩 Development Tools 🛠️
@@ -961,18 +839,6 @@ Browse the full template catalog here:
 
 *Development tools for building, visualizing, and deploying LangGraph applications:*
 
-<details>
-<summary>▪️ <strong>LangGraph Builder</strong> - Visual development with drag-and-drop graph design ▪️</summary>
-
-**Visual development interface for creating LangGraph applications.** Features intuitive drag-and-drop graph design, automatic code generation for both Python and TypeScript, and real-time visualization of agent workflows.
-
-| | |
-|---|---|
-| **Repository** | [`langgraph-builder`](https://github.com/langchain-ai/langgraph-builder) |
-| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph-builder?style=social) |
-| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langgraph-builder) |
-
-</details>
 
 <details>
 <summary>▪️ <strong>LangGraph Generator</strong> - Code generation and project scaffolding ▪️</summary>
@@ -1042,7 +908,6 @@ Browse the full template catalog here:
 | Project | Description | GitHub Stars |
 |---|---|---|
 | [oba2311/analyst_agent](https://github.com/oba2311/analyst_agent) | Marketing analysis agent with trend/sentiment analysis and report generation | ![GitHub stars](https://img.shields.io/github/stars/oba2311/analyst_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/oba2311/analyst_agent) |
-| [muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | Agent that discovers and analyzes enterprise AI case studies | ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/muratcankoylan/AI-Investigator) |
 
 
 <div align="center">
@@ -1097,10 +962,7 @@ Browse the full template catalog here:
 |---|---|---|
 | [kargarisaac/telegram_link_summarizer_agent](https://github.com/kargarisaac/telegram_link_summarizer_agent) | Telegram bot that summarizes shared links using LangGraph and multi-tool extraction | ![GitHub stars](https://img.shields.io/github/stars/kargarisaac/telegram_link_summarizer_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/kargarisaac/telegram_link_summarizer_agent) |
 | [gotohuman/gotohuman-langgraph-lead-example](https://github.com/gotohuman/gotohuman-langgraph-lead-example) | Sales email drafting with human-in-the-loop review | ![GitHub stars](https://img.shields.io/github/stars/gotohuman/gotohuman-langgraph-lead-example?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/gotohuman/gotohuman-langgraph-lead-example) |
-| [multinear-demo/demo-bank-support-lc-py](https://github.com/multinear-demo/demo-bank-support-lc-py) | Banking support chatbot with RAG to reduce hallucinations | ![GitHub stars](https://img.shields.io/github/stars/multinear-demo/demo-bank-support-lc-py?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/multinear-demo/demo-bank-support-lc-py) |
-| [tilotech/identity-rag-customer-insights-chatbot](https://github.com/tilotech/identity-rag-customer-insights-chatbot) | Customer insights chatbot that creates golden records for context-aware replies | ![GitHub stars](https://img.shields.io/github/stars/tilotech/identity-rag-customer-insights-chatbot?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/tilotech/identity-rag-customer-insights-chatbot) |
 | [raminmohammadi/ai-agent-smart-assist](https://github.com/raminmohammadi/ai-agent-smart-assist) | Knowledge base + classification + Q&A for support teams (FAISS + RAG) | ![GitHub stars](https://img.shields.io/github/stars/raminmohammadi/ai-agent-smart-assist?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/raminmohammadi/ai-agent-smart-assist) |
-
 
 
 <div align="center">
@@ -1198,10 +1060,7 @@ Browse the full template catalog here:
 
 *Marketing analysis, content strategy, and promotional automation*
 
-| Project | Description | GitHub Stars |
-|---|---|---|
-| [denser-org/denser-chat](https://github.com/denser-org/denser-chat) | Tool that breaks down content tasks and drafts long-form pieces | ![GitHub stars](https://img.shields.io/github/stars/denser-org/denser-chat?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/denser-org/denser-chat) |
-
+No active community listings currently.
 
 
 ### 🎥 Media & Podcasts
@@ -1212,7 +1071,6 @@ Browse the full template catalog here:
 |---|---|---|
 | [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) | Turns multi-modal content into podcast-style dialogues | ![GitHub stars](https://img.shields.io/github/stars/souzatharsis/podcastfy?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/souzatharsis/podcastfy) |
 | [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) | Navigate and search across YouTube channel content | ![GitHub stars](https://img.shields.io/github/stars/wassim249/YT-Navigator?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/wassim249/YT-Navigator) |
-| [artnoage/Podcast](https://github.com/artnoage/Podcast) | Automated podcast pipeline from academic texts | ![GitHub stars](https://img.shields.io/github/stars/artnoage/Podcast?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/artnoage/Podcast) |
 | [benjichat/voice_agent_base](https://github.com/benjichat/voice_agent_base) | Voice agent with STT/TTS and web search in a React UI | ![GitHub stars](https://img.shields.io/github/stars/benjichat/voice_agent_base?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/benjichat/voice_agent_base) |
 | [von-development/voice-file-agent](https://github.com/von-development/voice-file-agent) | Voice-controlled file manager with LangGraph ReAct | ![GitHub stars](https://img.shields.io/github/stars/von-development/voice-file-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/von-development/voice-file-agent) |
 
@@ -1244,7 +1102,6 @@ Browse the full template catalog here:
 | [IlyaRice/RAG-Challenge-2](https://github.com/IlyaRice/RAG-Challenge-2) | RAG with custom PDF parsing, parent retrieval, and reranking | ![GitHub stars](https://img.shields.io/github/stars/IlyaRice/RAG-Challenge-2?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/IlyaRice/RAG-Challenge-2) |
 | [LexStack-AI/LexReviewer](https://github.com/LexStack-AI/LexReviewer) | LangGraph-powered legal PDF RAG service with hybrid vector+BM25 retrieval, streaming chat, and citation-aware answers with bounding-box references for highlighting. | ![GitHub stars](https://img.shields.io/github/stars/LexStack-AI/LexReviewer?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/LexStack-AI/LexReviewer) |
 | [TAMustafa/Local_Chat_RAG](https://github.com/TAMustafa/Local_Chat_RAG) | Local RAG chat (Ollama) with sources and modern UI | ![GitHub stars](https://img.shields.io/github/stars/TAMustafa/Local_Chat_RAG?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/TAMustafa/Local_Chat_RAG) |
-| [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) | PDF chatbot template with LangChain/LangGraph and vector storage | ![GitHub stars](https://img.shields.io/github/stars/mayooear/ai-pdf-chatbot-langchain?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/mayooear/ai-pdf-chatbot-langchain) |
 | [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) | Tutorial series on RAG from basics to advanced | ![GitHub stars](https://img.shields.io/github/stars/bRAGAI/bRAG-langchain?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/bRAGAI/bRAG-langchain) |
 | [catio-tech/graphqa](https://github.com/catio-tech/graphqa) | Natural language graph analysis framework for querying graphs without complex query languages | ![GitHub stars](https://img.shields.io/github/stars/catio-tech/graphqa?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/catio-tech/graphqa) |
 | [zamalali/DeepGit](https://github.com/zamalali/DeepGit) | Agentic workflow for intelligent GitHub repo discovery with hybrid retrieval and re-ranking | ![GitHub stars](https://img.shields.io/github/stars/zamalali/DeepGit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/DeepGit) |
@@ -1275,10 +1132,7 @@ Browse the full template catalog here:
 | [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) | R&D automation for data mining, paper analysis, model tuning | ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/microsoft/RD-Agent) |
 | [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research) | Steerable enterprise research stack with planner, specialized search agents, and web UI on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/enterprise-deep-research?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/SalesforceAIResearch/enterprise-deep-research) |
 | [xyin-anl/Nodeology](https://github.com/xyin-anl/Nodeology) | Simplified scientific workflow builder | ![GitHub stars](https://img.shields.io/github/stars/xyin-anl/Nodeology?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/xyin-anl/Nodeology) |
-| [alonlavian/RAGent](https://github.com/alonlavian/RAGent) | Research assistant with PDF processing and web search | ![GitHub stars](https://img.shields.io/github/stars/alonlavian/RAGent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/alonlavian/RAGent) |
 | [lgesuellip/researcher_agent](https://github.com/lgesuellip/researcher_agent) | Turns websites into LLM-ready research content with automated documentation indexing | ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/lgesuellip/researcher_agent) |
-
-
 
 
 <div align="center">
@@ -1296,8 +1150,6 @@ Browse the full template catalog here:
 | [sidclawhq/platform](https://github.com/sidclawhq/platform) | Approval and audit layer for LangGraph agents. Intercepts tool calls, evaluates them against policies, and holds them for human review before execution. Hash-chain audit trail, 13 framework integrations. Apache 2.0. | ![GitHub stars](https://img.shields.io/github/stars/sidclawhq/platform?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/sidclawhq/platform) |
 
 
-
-
 <div align="center">
 
 ### 🌍 Sustainability
@@ -1306,9 +1158,7 @@ Browse the full template catalog here:
 
 *Environmental impact, green technology, and sustainability analysis*
 
-| Project | Description | GitHub Stars |
-|---------|-------------|--------------|
-| [vivek-suryavanshi/GreenMeGenAIApp](https://github.com/vivek-suryavanshi/GreenMeGenAIApp) | AI sustainability guide that analyzes lifestyle for carbon footprint reduction | ![GitHub stars](https://img.shields.io/github/stars/vivek-suryavanshi/GreenMeGenAIApp?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/vivek-suryavanshi/GreenMeGenAIApp) |
+No active community listings currently.
 
 <div align="center">
 
@@ -1328,7 +1178,6 @@ Browse the full template catalog here:
 | [ac12644/langgraph-starter-kit](https://github.com/ac12644/langgraph-starter-kit) | Production-ready multi-agent starter kit with 6 patterns (Supervisor, Swarm, HITL, Structured Output, Research, RAG), 5 LLM providers, MCP integration, CLI scaffolder, and Fastify server | ![GitHub stars](https://img.shields.io/github/stars/ac12644/langgraph-starter-kit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/ac12644/langgraph-starter-kit) |
 
 
-
 <div align="center">
 
 ### 🏢 Workplace & Productivity
@@ -1342,7 +1191,6 @@ Browse the full template catalog here:
 | [ashumishra2104/AI_Travel_agent_Streamlit](https://github.com/ashumishra2104/AI_Travel_agent_Streamlit) | Streamlit-based AI travel agent with weather, search, currency conversion, and YouTube integration tools | ![GitHub stars](https://img.shields.io/github/stars/ashumishra2104/AI_Travel_agent_Streamlit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/ashumishra2104/AI_Travel_agent_Streamlit) |
 | [eduly-ai/eduly](https://github.com/eduly-ai/eduly) | AI-powered educational platform for personalized learning experiences and tutoring assistance | ![GitHub stars](https://img.shields.io/github/stars/eduly-ai/eduly?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/eduly-ai/eduly) |
 | [emanueleielo/ciana-parrot](https://github.com/emanueleielo/ciana-parrot) | Self-hosted AI personal assistant with Telegram integration, scheduled tasks, multi-provider LLM support, and MCP server integration | ![GitHub stars](https://img.shields.io/github/stars/emanueleielo/ciana-parrot?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/emanueleielo/ciana-parrot) |
-| [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer) | Desktop task agent focused on safe execution | ![GitHub stars](https://img.shields.io/github/stars/Clevrr-AI/Clevrr-Computer?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Clevrr-AI/Clevrr-Computer) |
 | [tavily-ai/meeting-prep-agent](https://github.com/tavily-ai/meeting-prep-agent) | Meeting prep with calendars, search, and profile research | ![GitHub stars](https://img.shields.io/github/stars/tavily-ai/meeting-prep-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/tavily-ai/meeting-prep-agent) |
 | [temporal-cortex/mcp](https://github.com/temporal-cortex/mcp) | Deterministic calendar scheduling MCP server with LangGraph examples — datetime resolution, multi-calendar availability, and atomic booking | ![GitHub stars](https://img.shields.io/github/stars/temporal-cortex/mcp?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/temporal-cortex/mcp) |
 | [zamalali/InboxHero](https://github.com/zamalali/InboxHero) | Email triage with attachment reading and reply drafting | ![GitHub stars](https://img.shields.io/github/stars/zamalali/InboxHero?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/InboxHero) |
@@ -1511,7 +1359,6 @@ Browse the full template catalog here:
 </div>
 
 We welcome additions and fixes! Please read the **[Contributing Guide](CONTRIBUTING.md)** for the submission process, formatting rules, and category guidelines before opening an issue or pull request.
-
 
 
 ---

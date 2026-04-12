@@ -2,14 +2,8 @@ name: Repo Checks
 
 on:
   schedule:
-    - cron: '0 9 * * 1'
+    - cron: '0 9 1 * *'
   workflow_dispatch:
-  pull_request:
-    paths:
-      - 'README.md'
-      - 'scripts/repo-checks.mjs'
-      - '.github/workflows/repo-checks.yml'
-      - 'package.json'
 
 jobs:
   repo-checks:
