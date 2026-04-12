@@ -842,6 +842,19 @@ Browse the full template catalog here:
 
 </details>
 
+<details>
+<summary>▪️ <strong>Open SWE</strong> - Open-source asynchronous coding agent ▪️</summary>
+
+**Open-source asynchronous coding agent built on LangGraph for long-running, autonomous software engineering tasks.** Supports Anthropic and OpenAI models and is designed for complex, multi-step code generation and modification workflows.
+
+| | |
+|---|---|
+| **Repository** | [`open-swe`](https://github.com/langchain-ai/open-swe) |
+| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open-swe?style=social) |
+| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/open-swe) |
+
+</details>
+
 
 <div align="center">
 
