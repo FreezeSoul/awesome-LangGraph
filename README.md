@@ -1223,6 +1223,7 @@ No active community listings currently.
 | [zamalali/InboxHero](https://github.com/zamalali/InboxHero) | Email triage with attachment reading and reply drafting | ![GitHub stars](https://img.shields.io/github/stars/zamalali/InboxHero?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/InboxHero) |
 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | Self-hosted second brain for docs and web | ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/khoj-ai/khoj) |
 | [raj-maharajwala/AI_Agent_Chatbot_Synapse](https://github.com/raj-maharajwala/AI_Agent_Chatbot_Synapse) | Bundle of search/productivity/data agents with UI | ![GitHub stars](https://img.shields.io/github/stars/raj-maharajwala/AI_Agent_Chatbot_Synapse?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/raj-maharajwala/AI_Agent_Chatbot_Synapse) |
+| [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | Fully extensible workplace AI platform for enterprise search and workflow automation; connects Gmail, Slack, Notion, Google Drive with LangGraph-powered agents and knowledge-graph RAG | ![GitHub stars](https://img.shields.io/github/stars/pipeshub-ai/pipeshub-ai?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/pipeshub-ai/pipeshub-ai) |
 
 
 ---
