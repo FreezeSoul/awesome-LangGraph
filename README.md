@@ -1159,6 +1159,7 @@ No active community listings currently.
 | [xyin-anl/Nodeology](https://github.com/xyin-anl/Nodeology) | Simplified scientific workflow builder | ![GitHub stars](https://img.shields.io/github/stars/xyin-anl/Nodeology?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/xyin-anl/Nodeology) |
 | [lgesuellip/researcher_agent](https://github.com/lgesuellip/researcher_agent) | Turns websites into LLM-ready research content with automated documentation indexing | ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/lgesuellip/researcher_agent) |
 | [guy-hartstein/company-research-agent](https://github.com/guy-hartstein/company-research-agent) | Agentic company due-diligence tool powered by LangGraph and Tavily; multi-agent framework with Gemini/GPT for deep company research and financial analysis | ![GitHub stars](https://img.shields.io/github/stars/guy-hartstein/company-research-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/guy-hartstein/company-research-agent) |
+| [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any) | Converts papers, text, or topics into editable research figures, technical route diagrams, and presentation slides using LangGraph agents | ![GitHub stars](https://img.shields.io/github/stars/OpenDCAI/Paper2Any?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/OpenDCAI/Paper2Any) |
 
 
 <div align="center">
