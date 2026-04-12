@@ -1047,6 +1047,7 @@ Browse the full template catalog here:
 | [rsrini7/mermaid2gif](https://github.com/rsrini7/mermaid2gif) | Tool for converting Mermaid diagrams to animated GIFs with optional AI-powered diagram generation | ![GitHub stars](https://img.shields.io/github/stars/rsrini7/mermaid2gif?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/rsrini7/mermaid2gif) |
 | [zamalali/langchain-code](https://github.com/zamalali/langchain-code) | Multi-LLM CLI tool with ReAct & Deep modes for code analysis, feature implementation, and bug fixing | ![GitHub stars](https://img.shields.io/github/stars/zamalali/langchain-code?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/langchain-code) |
 | [Mediaeater/swarm.at](https://github.com/Mediaeater/swarm-at-ledger) | Settlement protocol that hash-chains every LangGraph node execution into an immutable audit ledger with trust-tiered agent identities | ![GitHub stars](https://img.shields.io/github/stars/Mediaeater/swarm.at?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Mediaeater/swarm.at) |
+| [eosho/langchain_terminal_agent](https://github.com/eosho/langchain_terminal_agent) | Safe, human-in-the-loop terminal assistant built with LangChain that executes shell commands under human review and oversight | ![GitHub stars](https://img.shields.io/github/stars/eosho/langchain_terminal_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/eosho/langchain_terminal_agent) |
 
 <div align="center">
 
