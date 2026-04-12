@@ -381,6 +381,19 @@ Access the official LangSmith platform documentation:
 
 </details>
 
+<details>
+<summary>▪️ <strong>LangSmith Claude Code Plugins</strong> - LangSmith observability plugins for Claude Code ▪️</summary>
+
+**Integrates LangSmith tracing and observability directly into Claude Code workflows.** Connect your Claude Code sessions to LangSmith to capture traces, monitor runs, and evaluate agent behavior from within your IDE.
+
+| | |
+|---|---|
+| **Repository** | [`langsmith-claude-code-plugins`](https://github.com/langchain-ai/langsmith-claude-code-plugins) |
+| **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langsmith-claude-code-plugins?style=social) |
+| **Last Commit** | ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langsmith-claude-code-plugins) |
+
+</details>
+
 <n></n>
 
 > [!TIP]
