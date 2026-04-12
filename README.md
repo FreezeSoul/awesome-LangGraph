@@ -1296,6 +1296,7 @@ No active community listings currently.
 | Name | Description |
 |---|---|
 | [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) | A collection of agent implementation examples and patterns. |
+| [Generative AI](https://github.com/genieincodebottle/generative-ai) | Comprehensive Generative AI resource hub covering roadmaps, LangChain/LangGraph projects, RAG, multi-agent patterns, MCP, and interview/coding prep. |
 
 </details>
 
