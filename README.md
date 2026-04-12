@@ -1002,6 +1002,7 @@ Browse the full template catalog here:
 |---|---|---|
 | [starpig1129/AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/AI-Data-Analysis-MultiAgent) | Multi-agent data analysis with visualization and report generation | ![GitHub stars](https://img.shields.io/github/stars/starpig1129/AI-Data-Analysis-MultiAgent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/starpig1129/AI-Data-Analysis-MultiAgent) |
 | [project-ryoma/ryoma](https://github.com/project-ryoma/ryoma) | Data agent framework for analysis, engineering, and visualization with LangChain integration | ![GitHub stars](https://img.shields.io/github/stars/project-ryoma/ryoma?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/project-ryoma/ryoma) |
+| [bididi-badidi/FYP-Data-Analysis-With-LLM](https://github.com/bididi-badidi/FYP-Data-Analysis-With-LLM) | Automated data analysis workflows using LangGraph agents — end-to-end pipeline for dataset exploration, statistical analysis, and insight generation with LLMs | ![GitHub stars](https://img.shields.io/github/stars/bididi-badidi/FYP-Data-Analysis-With-LLM?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/bididi-badidi/FYP-Data-Analysis-With-LLM) |
 
 <div align="center">
 
